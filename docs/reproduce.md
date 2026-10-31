@@ -5,9 +5,12 @@ No credentials or paid services are needed.
 
 ## Before you start
 
-- Python 3.12 or later (tested with Python 3.13, DuckDB 2.0.0, pandas 3.0.5, NumPy 2.5.3).
+- Python 3.12 or later (tested with Python 3.13, DuckDB 2.0.0, pandas 3.0.5, NumPy 2.5.3; results identical with pandas 2.2 and NumPy 2.0).
 - An internet connection: the scripts read the challenge data straight from its public bucket.
-- `SampleSubmission.csv` from the challenge's Data page on Zindi, saved in the repository folder.
+- Optional: `SampleSubmission.csv` from the challenge's Data page on Zindi, saved in the repository folder.
+  Without it, the scripts use the same tract list from `submissions/submission_v34.csv`.
+
+The fastest route is the notebook: [reproduce.ipynb](../reproduce.ipynb), which also runs on Colab.
 
 ```bash
 pip install -e .

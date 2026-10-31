@@ -4,6 +4,16 @@ Versions follow [Semantic Versioning](https://semver.org). Dates are UTC.
 
 ## Unreleased
 
+## 1.1.0 — 2026-10-31
+
+### Added
+- `reproduce.ipynb`: reproduces the final submissions, analysis and discovery tables in Colab, saved with outputs.
+
+### Changed
+- `score.py` and `check_submission.py` fall back to the tract list in `submissions/submission_v34.csv`
+  when Zindi's `SampleSubmission.csv` is absent.
+- Results confirmed identical with pandas 2.2–3.0 and NumPy 2.0–2.5.
+
 ## 1.0.0 — 2026-10-31
 
 Version submitted with the Zindi Bias Bounty Mapping Equity Challenge entry.

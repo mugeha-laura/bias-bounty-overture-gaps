@@ -19,7 +19,7 @@ Usage:
     python strata_extra.py          # adds hazard columns (needed from v31 on)
     python score.py v34             # writes submissions/submission_v34.csv
 
-Needs the Zindi sample submission saved as SampleSubmission.csv in this folder.
+Uses SampleSubmission.csv from Zindi if present, else the committed tract list.
 """
 import sys
 from pathlib import Path
@@ -28,6 +28,18 @@ import numpy as np
 import pandas as pd
 
 SAMPLE = "SampleSubmission.csv"   # the Zindi sample submission (authoritative tract list)
+# Without the Zindi file, fall back to the tract list in our committed final submission
+# (the same 9,794 census tract GEOIDs), so the code runs without a Zindi account.
+FALLBACK_TRACTS = "submissions/submission_v34.csv"
+
+
+def tract_list():
+    """The scored tracts, as a one-column DataFrame of GEOIDs read as text."""
+    from pathlib import Path as _P
+    src = SAMPLE if _P(SAMPLE).exists() else FALLBACK_TRACTS
+    if src != SAMPLE:
+        print(f"note: {SAMPLE} not found; using the tract list from {FALLBACK_TRACTS}")
+    return pd.read_csv(src, dtype={"GEOID": str})[["GEOID"]]
 
 BASE = dict(
     # Buildings: learn "buildings per housing unit, by density" in tracts where
@@ -252,7 +264,7 @@ def main():
     extra = Path("features/strata_extra.csv")
     if extra.exists():
         feats = feats.merge(pd.read_csv(extra, dtype={"GEOID": str}), on="GEOID", how="left")
-    sample = pd.read_csv(SAMPLE, dtype={"GEOID": str})
+    sample = tract_list()
     feats = feats[feats.GEOID.isin(sample.GEOID)].reset_index(drop=True)   # scored tracts only
     scored = score(feats, version)
 

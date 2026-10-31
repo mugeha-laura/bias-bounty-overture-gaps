@@ -1,6 +1,6 @@
 # Who the map misses
 
-Code and data for an entry to the Zindi **Bias Bounty Mapping Equity Challenge**: estimating
+Code and data for my entry to the Zindi **Bias Bounty Mapping Equity Challenge**: estimating
 how much Overture Maps under-covers each US census tract, and finding where those gaps fall.
 
 - **Scored submission:** coverage-gap scores for 9,794 tracts in five study regions, built only
@@ -9,11 +9,19 @@ how much Overture Maps under-covers each US census tract, and finding where thos
   but filed under another category, so a category search cannot find them. Rural tracts hide 25%
   of theirs, urban tracts 9%.
 
-The full writeup explains the method and findings. This repository lets anyone reproduce them.
+The full writeup explains the method and findings while this repository lets anyone reproduce them.
 
-## Reproduce the results
+## Reproduce the results in your browser
 
-You need Python 3.12 or later and the Zindi sample submission.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mugeha-laura/bias-bounty-overture-gaps/blob/main/reproduce.ipynb)
+
+[`reproduce.ipynb`](reproduce.ipynb) rebuilds both final submissions, checks they match the uploaded files,
+and shows the analysis and discovery tables, in about a minute with no setup. It is saved with its outputs,
+so you can also read the results here on GitHub.
+
+## Reproduce the results locally
+
+You need Python 3.12 or later.
 
 1. Install the dependencies:
 
@@ -21,7 +29,8 @@ You need Python 3.12 or later and the Zindi sample submission.
    pip install -e .
    ```
 
-2. Download `SampleSubmission.csv` from the challenge's Data page on Zindi and save it in this folder.
+2. Optional: save `SampleSubmission.csv` from the challenge's Data page on Zindi in this folder.
+   Without it, the scripts use the same tract list from the committed final submission.
 
 3. Rebuild the final submission from the committed features (takes seconds):
 
@@ -56,6 +65,7 @@ To rebuild every feature from the raw challenge data (~20 minutes), see
 | `analyse.py` | Converts public leaderboard scores into correlations with the truth |
 | `discovery_fire.py`, `discovery_extra.py` | The Best Bias Discovery analysis |
 | `check_submission.py` | Checks a submission file before upload |
+| `reproduce.ipynb` | The quick reproduction as a notebook (Colab-ready) |
 | `features/` | Per-tract features (generated, committed for speed) |
 | `submissions/` | Every file uploaded to the leaderboard |
 | `discovery/` | Discovery outputs, including all 697 hidden departments |

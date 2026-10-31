@@ -13,12 +13,24 @@ import sys
 
 import pandas as pd
 
-SAMPLE = "SampleSubmission.csv"
+SAMPLE = "SampleSubmission.csv"   # the Zindi sample submission (authoritative tract list)
+# Without the Zindi file, fall back to the tract list in our committed final submission
+# (the same 9,794 census tract GEOIDs), so the code runs without a Zindi account.
+FALLBACK_TRACTS = "submissions/submission_v34.csv"
+
+
+def tract_list():
+    """The scored tracts, as a one-column DataFrame of GEOIDs read as text."""
+    from pathlib import Path as _P
+    src = SAMPLE if _P(SAMPLE).exists() else FALLBACK_TRACTS
+    if src != SAMPLE:
+        print(f"note: {SAMPLE} not found; using the tract list from {FALLBACK_TRACTS}")
+    return pd.read_csv(src, dtype={"GEOID": str})[["GEOID"]]
 
 
 def check(path):
     sub = pd.read_csv(path, dtype={"GEOID": str})
-    sample = pd.read_csv(SAMPLE, dtype={"GEOID": str})
+    sample = tract_list()
     problems = []
     if list(sub.columns[:2]) != ["GEOID", "coverage_gap_score"]:
         problems.append(f"columns should start GEOID, coverage_gap_score; got {list(sub.columns)}")
