@@ -15,11 +15,13 @@ Usage: fill PUBLIC_SCORES as results come in, then   python analyse.py
 import numpy as np
 import pandas as pd
 
-R_ZERO, R_TEN = 0.107246299, 0.097675731          # constant 0 and constant 0.10
-E_Y2 = R_ZERO ** 2
-E_Y = (E_Y2 + 0.10 ** 2 - R_TEN ** 2) / (2 * 0.10)
-SD_Y = np.sqrt(E_Y2 - E_Y ** 2)
+R_ZERO, R_TEN = 0.107246299, 0.097675731          # public RMSE of constant 0 and constant 0.10
+E_Y2 = R_ZERO ** 2                                  # RMSE(0)^2 = E[y^2]
+E_Y = (E_Y2 + 0.10 ** 2 - R_TEN ** 2) / (2 * 0.10)  # solve RMSE(0.10)^2 for E[y]  -> 0.0598
+SD_Y = np.sqrt(E_Y2 - E_Y ** 2)                     # sd of the target            -> 0.0890
 
+# Public leaderboard RMSE of every uploaded version, copied from Zindi.
+# v21-v24 were withdrawn and v38 was never uploaded, so they are absent.
 PUBLIC_SCORES = {
     "v1": 0.131385528,
     "v2": 0.142175621,
@@ -58,17 +60,21 @@ PUBLIC_SCORES = {
 }
 
 
+# Versions that add one signal on top of another version: {version: its base}.
+# Clipping at 0 distorted v12 and v16-v19 (docs/method.md); later signals were measured on
+# the constant base instead. Kept here for the record.
 ADDED_ON = {"v11": "v10", "v12": "v10", "v13": "v10", "v14": "v10",
             "v16": "v15", "v17": "v15", "v18": "v15", "v19": "v15",
             "v21": "v20", "v22": "v20", "v23": "v20", "v24": "v20"}
 
 
 def main():
+    """Print each version's implied correlation with the truth, then the add-on readings."""
     print(f"public target: mean {E_Y:.4f}, sd {SD_Y:.4f}\n")
     rows = []
     for v, r in PUBLIC_SCORES.items():
         p = pd.read_csv(f"submissions/submission_{v}.csv").coverage_gap_score
-        e_py = (np.mean(p ** 2) + E_Y2 - r ** 2) / 2
+        e_py = (np.mean(p ** 2) + E_Y2 - r ** 2) / 2     # from RMSE^2 = E[p^2] - 2E[py] + E[y^2]
         cov = e_py - p.mean() * E_Y
         rows.append(dict(version=v, public_rmse=r, pred_mean=p.mean(), bias=p.mean() - E_Y,
                          corr_with_truth=cov / (p.std() * SD_Y) if p.std() > 0 else np.nan))

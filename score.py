@@ -175,6 +175,14 @@ def signals(df):
 
 
 def combo(df, weights, add=None):
+    """A model: TARGET_MEAN + TARGET_SD * sum(w * z), z = standardised signals.
+
+    weights  {signal name: weight}; the weights come from w = Sigma^-1 c, where c holds
+             each signal's measured correlation with the truth and Sigma their
+             correlations with each other (docs/method.md)
+    add      optional extra signal added at probe size, to test it on top of the model
+    Returns one score per tract, clipped to the valid range 0-1.
+    """
     s = signals(df)
     z = (s - s.mean()) / s.std()
     pred = TARGET_MEAN + TARGET_SD * sum(w * z[name] for name, w in weights.items())
@@ -184,6 +192,13 @@ def combo(df, weights, add=None):
 
 
 def probe(df, name, lift=False):
+    """A probe: TARGET_MEAN + PROBE_AMPLITUDE * one standardised signal.
+
+    Its public score, run through analyse.py, gives that signal's correlation with
+    the truth. name=None gives the constant submission. With lift=True the base is
+    raised so that no tract is clipped at 0: clipping distorts the reading, and a
+    constant shift does not change it.
+    """
     if name is None:
         return pd.Series(TARGET_MEAN, index=df.index)
     x = signals(df)[name]
@@ -195,11 +210,19 @@ def probe(df, name, lift=False):
 
 
 def building_gap(df, p):
+    """v1-v4 building component: Overture's shortfall against an expected building count.
+
+    Within each region, fit log(buildings per home) against log(homes per km2) on
+    tracts whose buildings are mostly Microsoft's (the closest thing to the removed
+    reference we can see). A tract's expected count is homes x the fitted ratio;
+    the gap is 1 - actual / (expected x building_tolerance), clipped to 0-1.
+    """
     out = pd.Series(np.nan, index=df.index)
-    for _, g in df.groupby("region"):
+    for _, g in df.groupby("region"):          # one fit per region: densities differ
         g = g[(g.housing_units > 0) & (g.bldg_total > 0)]
         log_dens = np.log10(g.housing_units / g.area_km2)
         log_ratio = np.log10(g.bldg_total / g.housing_units)
+        # calibration tracts: Microsoft supplies at least ms_dominant_share of the buildings
         cal = (g.bldg_ms / g.bldg_total) >= p["ms_dominant_share"]
         if cal.sum() < 30:          # too few calibration tracts: use all
             cal[:] = True
@@ -210,6 +233,14 @@ def building_gap(df, p):
 
 
 def transport_gap(df, p):
+    """v1-v4 road component, in one of three modes set by p["road_mode"].
+
+    flat        the same gap everywhere Overture has a named road
+    route_flat  the same gap, but only where a highway route exists
+    route       1 - named km / highway-route km, using route relations as a
+                stand-in for the removed TIGER S1100/S1200 layer
+    NaN means undefined: the organisers average only the defined components.
+    """
     if p["road_mode"] == "flat":
         return pd.Series(np.where(df.km_named > 0, p["road_flat_gap"], np.nan), index=df.index)
     ref_km = df.km_hwy_route
@@ -222,7 +253,14 @@ def transport_gap(df, p):
 
 
 def poi_gap(df, p):
+    """v1-v4 POI component: mean of a facilities guess and a business guess.
+
+    facilities  mean of a fire gap (fire_gap_if_none when the tract has no
+                fire_department place) and a school gap looked up by school count
+    business    a flat cbp_gap, since the County Business Patterns reference was removed
+    """
     fire = pd.Series(np.where(df.poi_fire > 0, 0.0, p["fire_gap_if_none"]), index=df.index)
+    # v3 on: a tract with a fire department filed under another category gets its own value
     if p["fire_gap_if_miscat"] is not None:
         miscat = (df.poi_fire == 0) & (df.poi_fire_miscat > 0)
         fire[miscat] = p["fire_gap_if_miscat"]
@@ -232,6 +270,12 @@ def poi_gap(df, p):
 
 
 def score(feats, version):
+    """Apply one entry of VERSIONS and return the features plus coverage_gap_score.
+
+    The entry's keys pick the kind: "probe", "reshape" (re-shape another version's
+    scores without changing their order), "combo" (a model), or none of these
+    (the v1-v4 component rules, with BASE parameters overridden by the entry).
+    """
     p = {**BASE, **VERSIONS[version]}
     out = feats.copy()
     if "probe" in p:
@@ -256,7 +300,9 @@ def score(feats, version):
 
 
 def main():
+    """Build one version's submission and component files from features/."""
     version = sys.argv[1] if len(sys.argv) > 1 else max(VERSIONS)
+    # all five regions' features, GEOIDs as text (Arizona's state code starts with 0)
     feats = pd.concat(
         [pd.read_csv(f, dtype={"GEOID": str}) for f in sorted(Path("features").glob("*-features.csv"))],
         ignore_index=True,
@@ -268,6 +314,7 @@ def main():
     feats = feats[feats.GEOID.isin(sample.GEOID)].reset_index(drop=True)   # scored tracts only
     scored = score(feats, version)
 
+    # one row per scored tract, in the sample submission's order
     sub = sample[["GEOID"]].merge(scored[["GEOID", "coverage_gap_score"]], on="GEOID", how="left")
     missing = sub.coverage_gap_score.isna().sum()
     assert missing == 0, f"{missing} tracts have no score - did features.py run for every region?"

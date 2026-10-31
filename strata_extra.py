@@ -18,8 +18,10 @@ COLS = [
 
 
 def main():
+    """Read COLS for every tract in the five regions and write features/strata_extra.csv."""
     con = duckdb.connect()
-    con.sql("INSTALL httpfs; LOAD httpfs;")
+    con.sql("INSTALL httpfs; LOAD httpfs;")   # read the parquet files over HTTPS, no download
+    # one SELECT per region's strata table, stacked into a single table
     parts = " UNION ALL ".join(
         f"SELECT GEOID, {', '.join(COLS)} FROM '{BASE}/{r}/{r}-strata-tract-table.parquet'"
         for r in REGIONS

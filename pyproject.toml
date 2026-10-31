@@ -1,6 +1,6 @@
 [project]
 name = "bias-bounty-overture-gaps"
-version = "1.1.0"
+version = "1.1.1"
 description = "Overture coverage gaps in climate-vulnerable US census tracts (Zindi Bias Bounty Mapping Equity Challenge)"
 readme = "README.md"
 license = { text = "MIT" }

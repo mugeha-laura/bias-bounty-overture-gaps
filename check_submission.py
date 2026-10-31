@@ -29,6 +29,7 @@ def tract_list():
 
 
 def check(path):
+    """Read a submission and return (DataFrame, list of problems); an empty list means OK."""
     sub = pd.read_csv(path, dtype={"GEOID": str})
     sample = tract_list()
     problems = []
@@ -50,9 +51,11 @@ def check(path):
 
 
 def main():
+    """Run the checks, print OK or FAIL, and exit with status 1 on failure."""
     if len(sys.argv) < 2:
         sys.exit(__doc__)
     sub, problems = check(sys.argv[1])
+    # Optional exact comparison with another copy (tolerance 1e-12: identical up to float noise)
     if "--same-as" in sys.argv:
         ref = pd.read_csv(sys.argv[sys.argv.index("--same-as") + 1], dtype={"GEOID": str})
         merged = sub.merge(ref, on="GEOID", suffixes=("", "_ref"))

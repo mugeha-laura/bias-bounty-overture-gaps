@@ -57,6 +57,7 @@ TO_M = "ST_Transform({g}, 'EPSG:4326', 'EPSG:5070', always_xy := true)"
 
 
 def connect():
+    """A DuckDB connection that can read remote parquet (httpfs) and do geometry (spatial)."""
     con = duckdb.connect()
     for ext in ("httpfs", "spatial"):
         con.sql(f"INSTALL {ext}; LOAD {ext};")
@@ -64,6 +65,11 @@ def connect():
 
 
 def build(con, region):
+    """One region's feature table: one row per scored tract, as a DataFrame.
+
+    Builds four intermediate DuckDB tables (roads, buildings, POIs, then the join)
+    and returns the result with missing counts filled as 0.
+    """
     ref = f"{BASE}/reference/{region}/{region}"
     strata = f"{BASE}/strata/{region}/{region}"
 
@@ -204,6 +210,7 @@ def build(con, region):
 
 
 def main():
+    """Build and write features for one region, or all five with the argument "all"."""
     arg = sys.argv[1] if len(sys.argv) > 1 else "northern-ca"
     regions = REGIONS if arg == "all" else [arg]
     Path("features").mkdir(exist_ok=True)

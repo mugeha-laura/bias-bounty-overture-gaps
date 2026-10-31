@@ -4,6 +4,14 @@ Versions follow [Semantic Versioning](https://semver.org). Dates are UTC.
 
 ## Unreleased
 
+## 1.1.1 — 2026-10-31
+
+### Changed
+- Docstrings for every function and more inline comments in all seven scripts. Comments only:
+  the code is unchanged and both final submissions rebuild identically.
+- `reproduce.ipynb`: temporary copies go to the system temp folder (works on Windows too);
+  department counts show as whole numbers.
+
 ## 1.1.0 — 2026-10-31
 
 ### Added
