@@ -1,0 +1,2878 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.476313,
+     35.145172
+    ]
+   },
+   "properties": {
+    "name": "Goldsby Fire Department",
+    "named_example": false,
+    "overture_category": "central_government_office",
+    "tract": "40087400204",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8844138,
+     35.5915061
+    ]
+   },
+   "properties": {
+    "name": "Sparks Fire Department Station #2",
+    "named_example": false,
+    "overture_category": "(no category)",
+    "tract": "40081961401",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.725247,
+     34.968145
+    ]
+   },
+   "properties": {
+    "name": "Wister Fire Department",
+    "named_example": false,
+    "overture_category": "police_department",
+    "tract": "40079040500",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.3729672,
+     34.2278319
+    ]
+   },
+   "properties": {
+    "name": "Hopewell Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40005587800",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.591563,
+     36.053192
+    ]
+   },
+   "properties": {
+    "name": "Canton Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40011958700",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.048996,
+     36.807821
+    ]
+   },
+   "properties": {
+    "name": "Kildare Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40071001200",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.98769,
+     33.99827
+    ]
+   },
+   "properties": {
+    "name": "Enville Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40085094200",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.28158,
+     34.8997
+    ]
+   },
+   "properties": {
+    "name": "Hicks Mountain Fire Department",
+    "named_example": false,
+    "overture_category": "community_services_non_profits",
+    "tract": "40075964200",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.88038792,
+     36.39224302
+    ]
+   },
+   "properties": {
+    "name": "Eucha Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40041375901",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.06543839572448,
+     36.12005451289393
+    ]
+   },
+   "properties": {
+    "name": "Stillwater Fire Department Station 2",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40119010400",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.4278471,
+     33.8836577
+    ]
+   },
+   "properties": {
+    "name": "Leon VFD",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40085094300",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.582176,
+     35.47363
+    ]
+   },
+   "properties": {
+    "name": "Oklahoma City Fire Department",
+    "named_example": false,
+    "overture_category": "public_service_and_government",
+    "tract": "40109107002",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.01224522,
+     35.60202815
+    ]
+   },
+   "properties": {
+    "name": "Blackgum Fire Department Community Building",
+    "named_example": false,
+    "overture_category": "community_services_non_profits",
+    "tract": "40135030201",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.330994,
+     34.638703
+    ]
+   },
+   "properties": {
+    "name": "Altus Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40065968700",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.43507632,
+     34.72473987
+    ]
+   },
+   "properties": {
+    "name": "Wichita Mountain Estates Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40031002202",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.121329,
+     33.936598
+    ]
+   },
+   "properties": {
+    "name": "Lake Murray Village Fire Department",
+    "named_example": false,
+    "overture_category": "physical_therapy",
+    "tract": "40085094100",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.63495237587892,
+     34.61374594602859
+    ]
+   },
+   "properties": {
+    "name": "Fittstown Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "public_service_and_government",
+    "tract": "40123089600",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.28507744,
+     36.80442473
+    ]
+   },
+   "properties": {
+    "name": "Blackwell Fire Department",
+    "named_example": false,
+    "overture_category": "police_department",
+    "tract": "40071001301",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.77689,
+     34.72283
+    ]
+   },
+   "properties": {
+    "name": "Blanco Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "community_services_non_profits",
+    "tract": "40121486800",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.8876918,
+     34.4543482
+    ]
+   },
+   "properties": {
+    "name": "Oakridge Volunteer Fire Department - Duncan, OK",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40137000800",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.008916,
+     34.996186
+    ]
+   },
+   "properties": {
+    "name": "Pioneer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40051000600",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.139961,
+     35.51046
+    ]
+   },
+   "properties": {
+    "name": "Webbers Falls Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40101001501",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.87937922,
+     36.58564174
+    ]
+   },
+   "properties": {
+    "name": "Waynoka Fire Department",
+    "named_example": false,
+    "overture_category": "central_government_office",
+    "tract": "40151954400",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.23496,
+     34.27079
+    ]
+   },
+   "properties": {
+    "name": "Temple VFD",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40033871200",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.871624,
+     35.896455
+    ]
+   },
+   "properties": {
+    "name": "Agra Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40081961200",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.440644,
+     35.011361
+    ]
+   },
+   "properties": {
+    "name": "Spaulding Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40063484700",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.841327,
+     36.9250731
+    ]
+   },
+   "properties": {
+    "name": "Quapaw Nation Miami Fire Station 1",
+    "named_example": false,
+    "overture_category": "(no category)",
+    "tract": "40115574200",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.309439,
+     36.29308
+    ]
+   },
+   "properties": {
+    "name": "Pryor Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40097040100",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.993209,
+     35.297784
+    ]
+   },
+   "properties": {
+    "name": "Cloud Chief Fire Dept",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40149965100",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.4662228,
+     35.15051617000002
+    ]
+   },
+   "properties": {
+    "name": "Russellville Area Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40121485602",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.864039,
+     36.434769
+    ]
+   },
+   "properties": {
+    "name": "Breckinridge Fire Dept",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40047000200",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.5450751,
+     34.6079228
+    ]
+   },
+   "properties": {
+    "name": "Pecan Creek Volunteer Fire Dept",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40031002301",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.89440542,
+     35.98247751
+    ]
+   },
+   "properties": {
+    "name": "Sparrow Hawk Village Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40021977901",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.38758,
+     34.60553
+    ]
+   },
+   "properties": {
+    "name": "Hulen Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40031002500",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.19441393,
+     35.6620775
+    ]
+   },
+   "properties": {
+    "name": "Luther Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40109109202",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.12619366,
+     35.25339419
+    ]
+   },
+   "properties": {
+    "name": "Stigler Fire Department",
+    "named_example": false,
+    "overture_category": "central_government_office",
+    "tract": "40061279200",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.730555,
+     36.503765
+    ]
+   },
+   "properties": {
+    "name": "Ralston Volunteer Fire Department Ralston, OK",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40117957400",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.17566658,
+     35.15671056
+    ]
+   },
+   "properties": {
+    "name": "Sentinel Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40149965000",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.5458882,
+     35.47790768
+    ]
+   },
+   "properties": {
+    "name": "Liberty Volunteer Firefighter",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40135030105",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.99179573,
+     36.56230683
+    ]
+   },
+   "properties": {
+    "name": "Hillsdale Carrier Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40047001100",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.41157,
+     35.464714
+    ]
+   },
+   "properties": {
+    "name": "Shady Grove Central High Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40091779602",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.4454549,
+     36.5287444
+    ]
+   },
+   "properties": {
+    "name": "Billings Oklahoma Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40103957100",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.037858,
+     33.997049
+    ]
+   },
+   "properties": {
+    "name": "Bennington Rural Volunteer Fire Dept",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40013795600",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.561610528977,
+     36.65952943829501
+    ]
+   },
+   "properties": {
+    "name": "Dacoma Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40151954400",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.11254499396554,
+     35.97619410916608
+    ]
+   },
+   "properties": {
+    "name": "Sapulpa Fire Department Station 3",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40037021600",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.2816549,
+     35.4208042
+    ]
+   },
+   "properties": {
+    "name": "Canute Oklahoma Fire Department",
+    "named_example": false,
+    "overture_category": "community_services_non_profits",
+    "tract": "40149964900",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.16434356,
+     35.87071509
+    ]
+   },
+   "properties": {
+    "name": "Norwood Rural Volunteer Fire",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40021977701",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.703334,
+     36.573252
+    ]
+   },
+   "properties": {
+    "name": "[EXAMPLE] Fairfax Volunteer Fire Department",
+    "named_example": true,
+    "overture_category": "community_services_non_profits",
+    "tract": "40113940003",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.8406793,
+     35.43063122
+    ]
+   },
+   "properties": {
+    "name": "Tiger Mountain Rural Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40091779900",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.697162,
+     34.032976
+    ]
+   },
+   "properties": {
+    "name": "Soper Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40023967300",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.831404,
+     33.931094
+    ]
+   },
+   "properties": {
+    "name": "Willis-Powell Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40095094804",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.742374,
+     35.171985
+    ]
+   },
+   "properties": {
+    "name": "Canadian Shores Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40121485800",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.774972,
+     35.163623
+    ]
+   },
+   "properties": {
+    "name": "Indianola Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40121485800",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.868729,
+     34.027552
+    ]
+   },
+   "properties": {
+    "name": "Boswell Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40023967300",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.29502642,
+     34.78284274
+    ]
+   },
+   "properties": {
+    "name": "Elgin Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40031002101",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.18474,
+     35.43039
+    ]
+   },
+   "properties": {
+    "name": "Cedar Lake Fire Department, Oklahoma",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40017300100",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.22682,
+     34.50714
+    ]
+   },
+   "properties": {
+    "name": "Hulen Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "community_services_non_profits",
+    "tract": "40031002003",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.77797,
+     33.904571
+    ]
+   },
+   "properties": {
+    "name": "Buncombe Creek Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "community_services_non_profits",
+    "tract": "40095094803",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.636375,
+     33.983485
+    ]
+   },
+   "properties": {
+    "name": "Texoma Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40095094805",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.791155,
+     35.459101
+    ]
+   },
+   "properties": {
+    "name": "Sallisaw Fire Department Station 1 - Headquarters",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40135030303",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.886781,
+     34.943577
+    ]
+   },
+   "properties": {
+    "name": "Blue Fire Department",
+    "named_example": false,
+    "overture_category": "professional_services",
+    "tract": "40121485900",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.67289464,
+     36.17193152
+    ]
+   },
+   "properties": {
+    "name": "Fair Oaks Fire Protection District",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40131050409",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.28035472,
+     35.49335226
+    ]
+   },
+   "properties": {
+    "name": "Choctaw Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40109108802",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.956107,
+     34.021692
+    ]
+   },
+   "properties": {
+    "name": "Ryan Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "ambulance_and_ems_services",
+    "tract": "40067371700",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.569062,
+     36.245074
+    ]
+   },
+   "properties": {
+    "name": "Tiawah Fire Department",
+    "named_example": false,
+    "overture_category": "physical_therapy",
+    "tract": "40131050603",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.363979,
+     34.585479
+    ]
+   },
+   "properties": {
+    "name": "Clayton Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40127097600",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.58298618,
+     34.04236085
+    ]
+   },
+   "properties": {
+    "name": "Eagletown Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40089098502",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.30964206,
+     36.67726927
+    ]
+   },
+   "properties": {
+    "name": "Tonkawa City Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40071001100",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.05921404,
+     36.10475767
+    ]
+   },
+   "properties": {
+    "name": "Berryhill Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40143006600",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.55369,
+     34.79726
+    ]
+   },
+   "properties": {
+    "name": "Happyland Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40123088600",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.725004,
+     36.793975
+    ]
+   },
+   "properties": {
+    "name": "Wyandotte Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40115574900",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.98500494,
+     36.31366321
+    ]
+   },
+   "properties": {
+    "name": "Kenwood Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40041376100",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.574303063609,
+     35.43494500089
+    ]
+   },
+   "properties": {
+    "name": "Oklahoma City Fire Department Station 21",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40109104200",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.464962,
+     35.726927
+    ]
+   },
+   "properties": {
+    "name": "Mountain View Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40101001200",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.786478,
+     35.366855
+    ]
+   },
+   "properties": {
+    "name": "Brent Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40135030401",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.50975,
+     34.55059
+    ]
+   },
+   "properties": {
+    "name": "Pernell Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40049681900",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.65073617,
+     35.95234659
+    ]
+   },
+   "properties": {
+    "name": "Coweta Fire Department",
+    "named_example": false,
+    "overture_category": "police_department",
+    "tract": "40145030604",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.193313,
+     34.066333
+    ]
+   },
+   "properties": {
+    "name": "Criner Hills Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40085094200",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.97948,
+     34.08237
+    ]
+   },
+   "properties": {
+    "name": "Sugden Volunteer Fire Department ",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40067371700",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.258983,
+     35.940854
+    ]
+   },
+   "properties": {
+    "name": "Langston Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40083600600",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.89989542,
+     36.73644225
+    ]
+   },
+   "properties": {
+    "name": "Washington County Fire Department",
+    "named_example": false,
+    "overture_category": "central_government_office",
+    "tract": "40147000601",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.887786,
+     36.820742
+    ]
+   },
+   "properties": {
+    "name": "Bear Creek Rural Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40071001200",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1177426,
+     36.1011003
+    ]
+   },
+   "properties": {
+    "name": "City Of Stillwater, Fire Station #4",
+    "named_example": false,
+    "overture_category": "central_government_office",
+    "tract": "40119010902",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.68836,
+     34.33396
+    ]
+   },
+   "properties": {
+    "name": "Reagan Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40069660202",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.24984,
+     33.97531
+    ]
+   },
+   "properties": {
+    "name": "Philadelphia Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40013795600",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.42387280342288,
+     34.374855836190925
+    ]
+   },
+   "properties": {
+    "name": "Wapanucka Fire Dept",
+    "named_example": false,
+    "overture_category": "central_government_office",
+    "tract": "40069660198",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.050855,
+     36.666445
+    ]
+   },
+   "properties": {
+    "name": "Nash OK Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40053956400",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.65201,
+     35.17824
+    ]
+   },
+   "properties": {
+    "name": "Canadian Vol Fire Dept",
+    "named_example": false,
+    "overture_category": "central_government_office",
+    "tract": "40121485800",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.11666,
+     36.21932
+    ]
+   },
+   "properties": {
+    "name": "[EXAMPLE] Rock Volunteer Fire Department",
+    "named_example": true,
+    "overture_category": "physical_therapy",
+    "tract": "40113940007",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.723702,
+     34.350339
+    ]
+   },
+   "properties": {
+    "name": "Reagan Volunteer Fire Department - Oklahoma",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40069660202",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.7069154,
+     36.64086798
+    ]
+   },
+   "properties": {
+    "name": "Cowskin Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40041375602",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.89859,
+     36.279302
+    ]
+   },
+   "properties": {
+    "name": "Waukomis Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40047001200",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.86660268,
+     36.59043898
+    ]
+   },
+   "properties": {
+    "name": "Monkey Island Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40041375805",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.339606,
+     35.590288
+    ]
+   },
+   "properties": {
+    "name": "Keefeton Volunteer Fire & Rescue",
+    "named_example": false,
+    "overture_category": "central_government_office",
+    "tract": "40101001302",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.692771,
+     35.388308
+    ]
+   },
+   "properties": {
+    "name": "Gans Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40135030401",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.9969975,
+     34.1846974
+    ]
+   },
+   "properties": {
+    "name": "Dickson Fire Department, Dickson Oklahoma",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40019892700",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.946357727051,
+     36.49317851846
+    ]
+   },
+   "properties": {
+    "name": "Catesby Fire Department ",
+    "named_example": false,
+    "overture_category": "community_services_non_profits",
+    "tract": "40045952600",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.9816736,
+     34.5086749
+    ]
+   },
+   "properties": {
+    "name": "Manitou Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40141070100",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.26630463,
+     34.01914743
+    ]
+   },
+   "properties": {
+    "name": "Fort Towson Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40023966900",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.00122,
+     36.94154
+    ]
+   },
+   "properties": {
+    "name": "Dale Township Fire Department",
+    "named_example": false,
+    "overture_category": "community_services_non_profits",
+    "tract": "40071001200",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.73278107,
+     35.39206562
+    ]
+   },
+   "properties": {
+    "name": "Mustang Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40017301410",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.963747,
+     35.373003
+    ]
+   },
+   "properties": {
+    "name": "Salem-Ryal Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40091779900",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.95571969,
+     35.53394343
+    ]
+   },
+   "properties": {
+    "name": "El Reno Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40017300400",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.060795,
+     35.153659
+    ]
+   },
+   "properties": {
+    "name": "Rocky Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40149965000",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.20102,
+     36.37166
+    ]
+   },
+   "properties": {
+    "name": "Morgans Corner Fire Department",
+    "named_example": false,
+    "overture_category": "central_government_office",
+    "tract": "40113940009",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.8729,
+     36.059807
+    ]
+   },
+   "properties": {
+    "name": "The Fire Station",
+    "named_example": false,
+    "overture_category": "cannabis_dispensary",
+    "tract": "40143007646",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.87959332,
+     36.10149974
+    ]
+   },
+   "properties": {
+    "name": "Ingalls Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40119011101",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.08992275,
+     34.606811152512
+    ]
+   },
+   "properties": {
+    "name": "Central High Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40137000901",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.77597,
+     34.35914
+    ]
+   },
+   "properties": {
+    "name": "Reagan Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40069660300",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.130388,
+     35.333804
+    ]
+   },
+   "properties": {
+    "name": "Cogar Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40015161602",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.928987,
+     36.881306
+    ]
+   },
+   "properties": {
+    "name": "Wakita Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40053956500",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.390212,
+     35.833067
+    ]
+   },
+   "properties": {
+    "name": "Fire Departments",
+    "named_example": false,
+    "overture_category": "police_department",
+    "tract": "40037020900",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.441793,
+     36.407274
+    ]
+   },
+   "properties": {
+    "name": "Cleo Springs Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40093955100",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.517455,
+     35.240909
+    ]
+   },
+   "properties": {
+    "name": "Longtown Volunteer FireDepartment",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40121485601",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.110129,
+     34.226585
+    ]
+   },
+   "properties": {
+    "name": "Hastings Volunteer Firedept",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40067371800",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.369732,
+     35.749149
+    ]
+   },
+   "properties": {
+    "name": "Porum Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40101000400",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.17627076,
+     36.88721769
+    ]
+   },
+   "properties": {
+    "name": "Peckham Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40071001302",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.859584,
+     36.764947
+    ]
+   },
+   "properties": {
+    "name": "Kaw City Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "ambulance_and_ems_services",
+    "tract": "40071001200",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.40605978819,
+     36.064534534882
+    ]
+   },
+   "properties": {
+    "name": "Mulhall Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40083600700",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.212779,
+     34.637072
+    ]
+   },
+   "properties": {
+    "name": "Cox's Store Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40031002003",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.25037201,
+     34.96768522
+    ]
+   },
+   "properties": {
+    "name": "Calvin Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40063485000",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.67516734,
+     35.81834111
+    ]
+   },
+   "properties": {
+    "name": "Haskell Fire Department",
+    "named_example": false,
+    "overture_category": "police_department",
+    "tract": "40101001600",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.459085,
+     36.082788
+    ]
+   },
+   "properties": {
+    "name": "Silver City Fire Rescue",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40037020705",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.71176428,
+     36.43813961
+    ]
+   },
+   "properties": {
+    "name": "Northwest Rogers County Fire Station 1",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40131050801",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.96851,
+     35.85683
+    ]
+   },
+   "properties": {
+    "name": "[EXAMPLE] Putnam Volunteer Fire Department",
+    "named_example": true,
+    "overture_category": "professional_services",
+    "tract": "40043959300",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.42738574,
+     34.91336902
+    ]
+   },
+   "properties": {
+    "name": "West End Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40077087200",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.75415695,
+     36.1592321
+    ]
+   },
+   "properties": {
+    "name": "Rolling Hills Fire District #1",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40145030403",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.13946,
+     35.65309
+    ]
+   },
+   "properties": {
+    "name": "Nuyaka Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40111000500",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.959764,
+     35.578486
+    ]
+   },
+   "properties": {
+    "name": "Arapaho Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40039960401",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.559492,
+     35.583946
+    ]
+   },
+   "properties": {
+    "name": "Nicut Rural Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40135030105",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.647883,
+     34.473391
+    ]
+   },
+   "properties": {
+    "name": "[EXAMPLE] Eldorado Fire Department",
+    "named_example": true,
+    "overture_category": "fire_protection_service",
+    "tract": "40065968300",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.597493,
+     35.007207
+    ]
+   },
+   "properties": {
+    "name": "Elm Point Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40121485700",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.947604,
+     34.883977
+    ]
+   },
+   "properties": {
+    "name": "Haywood/Arpelar Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40121486600",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.93227088,
+     35.85721004
+    ]
+   },
+   "properties": {
+    "name": "Kingfisher Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40073958300",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.117031,
+     33.936916
+    ]
+   },
+   "properties": {
+    "name": "Marietta Oklahoma Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40085094100",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.697024,
+     34.032955
+    ]
+   },
+   "properties": {
+    "name": "Nelson Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "business_manufacturing_and_supply",
+    "tract": "40023967300",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.11941611,
+     35.60089677
+    ]
+   },
+   "properties": {
+    "name": "Calumet Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40017300100",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.58147719,
+     35.47192621
+    ]
+   },
+   "properties": {
+    "name": "Fire Department Fire Maintenance",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40109107002",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.726145,
+     36.698325
+    ]
+   },
+   "properties": {
+    "name": "Burbank Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40113940011",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.95869,
+     35.86036
+    ]
+   },
+   "properties": {
+    "name": "Keys Volunteer Fire Department (Park Hill, Oklahoma)",
+    "named_example": false,
+    "overture_category": "public_service_and_government",
+    "tract": "40021978301",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.03085,
+     34.46371
+    ]
+   },
+   "properties": {
+    "name": "Empire Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40137000800",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.44769395,
+     35.36144443
+    ]
+   },
+   "properties": {
+    "name": "Lookeba-Sickles Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40015161602",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.072381,
+     34.737818
+    ]
+   },
+   "properties": {
+    "name": "Walker Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40049681100",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.60316979,
+     35.68410932
+    ]
+   },
+   "properties": {
+    "name": "Deer Creek Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40109108533",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.211984,
+     34.233525
+    ]
+   },
+   "properties": {
+    "name": "Caney VFD, Caney, OK",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40005587800",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.935752,
+     35.053443
+    ]
+   },
+   "properties": {
+    "name": "Grady County Fire Dept",
+    "named_example": false,
+    "overture_category": "home_security",
+    "tract": "40051001000",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.339545,
+     36.275777
+    ]
+   },
+   "properties": {
+    "name": "Sharon Oklahoma Fire Department",
+    "named_example": false,
+    "overture_category": "central_government_office",
+    "tract": "40153953200",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.462202,
+     34.1774672
+    ]
+   },
+   "properties": {
+    "name": "Randlett Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40033871200",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.29084423,
+     35.5656042
+    ]
+   },
+   "properties": {
+    "name": "Jones Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40109108900",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.66442729,
+     35.34834218
+    ]
+   },
+   "properties": {
+    "name": "Strother Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40133583200",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.93724318,
+     35.9795137
+    ]
+   },
+   "properties": {
+    "name": "Illinois River Volunteer Fire",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40021977901",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.973958,
+     36.554022
+    ]
+   },
+   "properties": {
+    "name": "Cleora Community Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40041375804",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.788999,
+     35.458328
+    ]
+   },
+   "properties": {
+    "name": "Liberty Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40135030303",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.181672,
+     35.610455
+    ]
+   },
+   "properties": {
+    "name": "Nuyaka Volunter Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40111000500",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.618934,
+     35.174379
+    ]
+   },
+   "properties": {
+    "name": "Arrowhead Estates Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40121485800",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.978289,
+     36.875851
+    ]
+   },
+   "properties": {
+    "name": "River Road Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40071001200",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.734127,
+     36.43487
+    ]
+   },
+   "properties": {
+    "name": "Breckenridge Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40047001500",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.0551972,
+     36.88197539
+    ]
+   },
+   "properties": {
+    "name": "Newkirk Fire Department EMS",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40071001200",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.83843,
+     36.091591
+    ]
+   },
+   "properties": {
+    "name": "Illinois River Area Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40021977600",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.02056282,
+     36.75357353
+    ]
+   },
+   "properties": {
+    "name": "Hawley Volunteer Fire Department-Oklahoma",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40053956400",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.55785,
+     33.99836
+    ]
+   },
+   "properties": {
+    "name": "West Bryan County Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40013796003",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.67739309,
+     36.24135805
+    ]
+   },
+   "properties": {
+    "name": "Verdigris Fire Protection District",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40131050602",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.53509,
+     34.03321
+    ]
+   },
+   "properties": {
+    "name": "Orr Volunteer Fire Department ",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40085094300",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.233809,
+     35.957652
+    ]
+   },
+   "properties": {
+    "name": "Coyle Volunteer Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40083600600",
+    "in_osm_within_500m": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.612743,
+     36.330422
+    ]
+   },
+   "properties": {
+    "name": "Claremore Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40131050201",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.68578,
+     35.48807
+    ]
+   },
+   "properties": {
+    "name": "[EXAMPLE] Prague Volunteer Fire Department",
+    "named_example": true,
+    "overture_category": "central_government_office",
+    "tract": "40081961500",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.50655512,
+     34.87502148
+    ]
+   },
+   "properties": {
+    "name": "Mangum Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40055967200",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.51784,
+     35.480291
+    ]
+   },
+   "properties": {
+    "name": "Oklahoma Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40109102500",
+    "in_osm_within_500m": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.691974,
+     34.900553
+    ]
+   },
+   "properties": {
+    "name": "Alderson Fire Department",
+    "named_example": false,
+    "overture_category": "fire_protection_service",
+    "tract": "40121486000",
+    "in_osm_within_500m": false
+   }
+  }
+ ]
+}

@@ -1,0 +1,698 @@
+region,GEOID,name,category,via_meta,lon,lat,nearest_fire_dept_km,ur_class,tribal_pct,aiannh_name
+eastern-ok,40065968300,Eldorado Fire Department,fire_protection_service,True,-99.6479,34.4734,36.8822,Rural,1.0,Kiowa-Comanche-Apache-Fort Sill Apache OTSA
+eastern-ok,40127097600,Clayton Fire Department,fire_protection_service,True,-95.364,34.5855,32.584,Rural,1.0,Choctaw OTSA
+eastern-ok,40151954400,Waynoka Fire Department,central_government_office,True,-98.8794,36.5856,30.515,Rural,0.0,
+eastern-ok,40085094300,Leon VFD,fire_protection_service,True,-97.4278,33.8837,26.1629,Rural,1.0,Chickasaw OTSA
+eastern-ok,40053956500,Wakita Fire Department,fire_protection_service,True,-97.929,36.8813,24.5044,Rural,0.0,
+eastern-ok,40113940003,Fairfax Volunteer Fire Department,community_services_non_profits,True,-96.7033,36.5733,23.9066,Rural,1.0,Osage Reservation
+eastern-ok,40071001200,Dale Township Fire Department,community_services_non_profits,True,-97.0012,36.9415,23.7966,Rural,1.0,Kaw OTSA
+eastern-ok,40043959300,Putnam Volunteer Fire Department,professional_services,True,-98.9685,35.8568,23.785,Rural,1.0,Cheyenne and Arapaho OTSA
+eastern-ok,40045952600,Catesby Fire Department ,community_services_non_profits,True,-99.9464,36.4932,23.2883,Rural,0.0,
+eastern-ok,40023967300,Boswell Volunteer Fire Department,fire_protection_service,True,-95.8687,34.0276,22.6922,Rural,1.0,Choctaw OTSA
+eastern-ok,40069660198,Wapanucka Fire Dept,central_government_office,True,-96.4239,34.3749,21.7039,Rural,1.0,Chickasaw OTSA
+eastern-ok,40005587800,Hopewell Volunteer Fire Department,fire_protection_service,True,-96.373,34.2278,21.3331,Rural,1.0,Choctaw OTSA
+eastern-ok,40033871200,Randlett Volunteer Fire Department,fire_protection_service,True,-98.4622,34.1775,21.0619,Rural,1.0,Kiowa-Comanche-Apache-Fort Sill Apache OTSA
+eastern-ok,40117957400,"Ralston Volunteer Fire Department Ralston, OK",fire_protection_service,True,-96.7306,36.5038,19.5008,Rural,1.0,Pawnee OTSA
+eastern-ok,40055967200,Mangum Fire Department,fire_protection_service,True,-99.5066,34.875,19.2476,Rural,1.0,Kiowa-Comanche-Apache-Fort Sill Apache OTSA
+eastern-ok,40017300100,Calumet Fire Department,fire_protection_service,True,-98.1194,35.6009,17.7591,Rural,1.0,Cheyenne and Arapaho OTSA
+eastern-ok,40047001100,Hillsdale Carrier Fire Department,fire_protection_service,True,-97.9918,36.5623,17.7145,Rural,0.0,
+eastern-ok,40111000500,Nuyaka Volunter Fire Department,fire_protection_service,True,-96.1817,35.6105,17.5778,Rural,1.0,Creek OTSA
+eastern-ok,40085094300,Orr Volunteer Fire Department ,fire_protection_service,True,-97.5351,34.0332,17.5761,Rural,1.0,Chickasaw OTSA
+eastern-ok,40071001200,Bear Creek Rural Fire Department,fire_protection_service,True,-96.8878,36.8207,17.3983,Rural,1.0,Kaw OTSA
+eastern-ok,40071001200,River Road Volunteer Fire Department,fire_protection_service,True,-96.9783,36.8759,17.2465,Rural,1.0,Kaw OTSA
+eastern-ok,40071001200,Kaw City Volunteer Fire Department,ambulance_and_ems_services,True,-96.8596,36.7649,17.2116,Rural,1.0,Kaw OTSA
+eastern-ok,40121485602,Russellville Area Volunteer Fire Department,fire_protection_service,True,-95.4662,35.1505,17.1067,Rural,1.0,Choctaw OTSA
+eastern-ok,40023967300,Soper Volunteer Fire Department,fire_protection_service,True,-95.6972,34.033,17.0579,Rural,1.0,Choctaw OTSA
+eastern-ok,40023967300,Nelson Volunteer Fire Department,business_manufacturing_and_supply,True,-95.697,34.033,17.0507,Rural,1.0,Choctaw OTSA
+eastern-ok,40015161602,Cogar Volunteer Fire Department,fire_protection_service,True,-98.1304,35.3338,16.9158,Rural,1.0,Caddo-Wichita-Delaware OTSA
+eastern-ok,40141070100,Manitou Volunteer Fire Department,fire_protection_service,True,-98.9817,34.5087,16.9097,Rural,1.0,Kiowa-Comanche-Apache-Fort Sill Apache OTSA
+eastern-ok,40071001200,Newkirk Fire Department EMS,fire_protection_service,True,-97.0552,36.882,16.7391,Rural,1.0,Kaw OTSA
+eastern-ok,40083600600,Coyle Volunteer Fire Department,fire_protection_service,True,-97.2338,35.9577,16.7054,Rural,0.5288,Iowa OTSA
+eastern-ok,40083600600,Langston Fire Department,fire_protection_service,True,-97.259,35.9409,16.5171,Rural,0.5288,Iowa OTSA
+eastern-ok,40149965000,Sentinel Volunteer Fire Department,fire_protection_service,True,-99.1757,35.1567,16.4444,Rural,1.0,Cheyenne and Arapaho OTSA
+eastern-ok,40103957100,Billings Oklahoma Volunteer Fire Department,fire_protection_service,True,-97.4455,36.5287,16.4397,Rural,0.0719,Otoe-Missouria OTSA
+eastern-ok,40017300100,"Cedar Lake Fire Department, Oklahoma",fire_protection_service,True,-98.1847,35.4304,15.9908,Rural,1.0,Cheyenne and Arapaho OTSA
+eastern-ok,40093955100,Cleo Springs Fire Department,fire_protection_service,True,-98.4418,36.4073,15.4882,Rural,0.0,
+eastern-ok,40071001100,Tonkawa City Fire Department,fire_protection_service,True,-97.3096,36.6773,15.0851,Rural,1.0,Tonkawa OTSA
+eastern-ok,40111000500,Nuyaka Fire Department,fire_protection_service,True,-96.1395,35.6531,14.7187,Rural,1.0,Creek OTSA
+eastern-ok,40071001302,Peckham Fire Department,fire_protection_service,True,-97.1763,36.8872,14.585,Urban,0.6047,Kaw OTSA
+eastern-ok,40153953200,Sharon Oklahoma Fire Department,central_government_office,True,-99.3395,36.2758,14.4973,Rural,0.0,
+eastern-ok,40089098502,Eagletown Fire Department,fire_protection_service,True,-94.583,34.0424,14.2449,Rural,1.0,Choctaw OTSA
+eastern-ok,40135030105,Nicut Rural Fire Department,fire_protection_service,True,-94.5595,35.5839,14.2032,Rural,1.0,Cherokee OTSA
+eastern-ok,40071001301,Blackwell Fire Department,police_department,True,-97.2851,36.8044,14.162,Urban,0.26,Tonkawa OTSA
+eastern-ok,40067371700,Ryan Volunteer Fire Department,ambulance_and_ems_services,True,-97.9561,34.0217,14.0919,Rural,1.0,Chickasaw OTSA
+eastern-ok,40075964200,Hicks Mountain Fire Department,community_services_non_profits,True,-99.2816,34.8997,13.9971,Rural,1.0,Kiowa-Comanche-Apache-Fort Sill Apache OTSA
+eastern-ok,40049681900,Pernell Volunteer Fire Department,fire_protection_service,True,-97.5098,34.5506,13.9479,Rural,1.0,Chickasaw OTSA
+eastern-ok,40049681100,Walker Fire Department,fire_protection_service,True,-97.0724,34.7378,13.4846,Rural,1.0,Chickasaw OTSA
+eastern-ok,40121486800,Blanco Volunteer Fire Department,community_services_non_profits,True,-95.7769,34.7228,13.474,Rural,1.0,Choctaw OTSA
+eastern-ok,40131050801,Northwest Rogers County Fire Station 1,fire_protection_service,True,-95.7118,36.4381,13.2256,Rural,1.0,Cherokee OTSA
+eastern-ok,40133583200,Strother Fire Department,fire_protection_service,True,-96.6644,35.3483,13.1132,Rural,1.0,Seminole OTSA
+eastern-ok,40073958300,Kingfisher Fire Department,fire_protection_service,True,-97.9323,35.8572,13.0278,Rural,1.0,Cheyenne and Arapaho OTSA
+eastern-ok,40063485000,Calvin Volunteer Fire Department,fire_protection_service,True,-96.2504,34.9677,13.0025,Rural,1.0,Choctaw OTSA
+eastern-ok,40135030401,Brent Volunteer Fire Department,fire_protection_service,True,-94.7865,35.3669,12.9066,Rural,1.0,Cherokee OTSA
+eastern-ok,40151954400,Dacoma Volunteer Fire Department,fire_protection_service,True,-98.5616,36.6595,12.8405,Rural,0.0,
+eastern-ok,40113940009,Morgans Corner Fire Department,central_government_office,True,-96.201,36.3717,12.7562,Rural,1.0,Osage Reservation
+eastern-ok,40115574900,Wyandotte Volunteer Fire Department,fire_protection_service,True,-94.725,36.794,11.9833,Rural,1.0,Seneca-Cayuga OTSA
+eastern-ok,40033871200,Temple VFD,fire_protection_service,True,-98.235,34.2708,11.8082,Rural,1.0,Kiowa-Comanche-Apache-Fort Sill Apache OTSA
+eastern-ok,40053956400,Hawley Volunteer Fire Department-Oklahoma,fire_protection_service,True,-98.0206,36.7536,11.783,Rural,0.0,
+eastern-ok,40019892700,"Dickson Fire Department, Dickson Oklahoma",fire_protection_service,True,-96.997,34.1847,11.7643,Rural,1.0,Chickasaw OTSA
+eastern-ok,40053956400,Nash OK Volunteer Fire Department,fire_protection_service,True,-98.0509,36.6664,11.5698,Rural,0.0,
+eastern-ok,40113940011,Burbank Volunteer Fire Department,fire_protection_service,True,-96.7261,36.6983,11.1817,Rural,1.0,Osage Reservation
+eastern-ok,40069660202,Reagan Volunteer Fire Department - Oklahoma,fire_protection_service,True,-96.7237,34.3503,11.0673,Rural,1.0,Chickasaw OTSA
+eastern-ok,40037020900,Fire Departments,police_department,True,-96.3902,35.8331,11.0557,Rural,1.0,Creek OTSA
+eastern-ok,40077087200,West End Fire Department,fire_protection_service,True,-95.4274,34.9134,11.0478,Rural,1.0,Choctaw OTSA
+eastern-ok,40015161602,Lookeba-Sickles Fire Department,fire_protection_service,True,-98.4477,35.3614,11.0249,Rural,1.0,Caddo-Wichita-Delaware OTSA
+eastern-ok,40069660202,Reagan Volunteer Fire Department,fire_protection_service,True,-96.6884,34.334,11.0142,Rural,1.0,Chickasaw OTSA
+eastern-ok,40081961500,Prague Volunteer Fire Department,central_government_office,True,-96.6858,35.4881,10.8379,Rural,1.0,Sac and Fox OTSA
+eastern-ok,40145030604,Coweta Fire Department,police_department,True,-95.6507,35.9523,10.7854,Urban,1.0,Creek OTSA
+eastern-ok,40013795600,Philadelphia Volunteer Fire Department,fire_protection_service,True,-96.2498,33.9753,10.772,Rural,1.0,Choctaw OTSA
+eastern-ok,40149964900,Canute Oklahoma Fire Department,community_services_non_profits,True,-99.2817,35.4208,10.7636,Rural,1.0,Cheyenne and Arapaho OTSA
+eastern-ok,40123089600,Fittstown Volunteer Fire Department,public_service_and_government,True,-96.635,34.6137,10.692,Rural,1.0,Chickasaw OTSA
+eastern-ok,40005587800,"Caney VFD, Caney, OK",fire_protection_service,True,-96.212,34.2335,10.5621,Rural,1.0,Choctaw OTSA
+eastern-ok,40135030201,Blackgum Fire Department Community Building,community_services_non_profits,True,-95.0122,35.602,10.5167,Rural,1.0,Cherokee OTSA
+eastern-ok,40067371800,Hastings Volunteer Firedept,fire_protection_service,True,-98.1101,34.2266,10.3762,Rural,1.0,Chickasaw OTSA
+eastern-ok,40041376100,Kenwood Volunteer Fire Department,fire_protection_service,True,-94.985,36.3137,10.1371,Rural,1.0,Cherokee OTSA
+eastern-ok,40091779602,Shady Grove Central High Fire Department,fire_protection_service,True,-95.4116,35.4647,10.0122,Rural,1.0,Cherokee OTSA
+eastern-ok,40013795600,Bennington Rural Volunteer Fire Dept,fire_protection_service,True,-96.0379,33.997,10.0085,Rural,1.0,Choctaw OTSA
+eastern-ok,40047001500,Breckenridge Fire Department,fire_protection_service,True,-97.7341,36.4349,9.969,Urban,0.0,
+eastern-ok,40149965000,Rocky Volunteer Fire Department,fire_protection_service,True,-99.0608,35.1537,9.89,Rural,1.0,Cheyenne and Arapaho OTSA
+eastern-ok,40047001200,Waukomis Fire Department,fire_protection_service,True,-97.8986,36.2793,9.8723,Rural,0.0,
+eastern-ok,40011958700,Canton Fire Department,fire_protection_service,True,-98.5916,36.0532,9.8431,Rural,1.0,Cheyenne and Arapaho OTSA
+eastern-ok,40083600700,Mulhall Volunteer Fire Department,fire_protection_service,True,-97.4061,36.0645,9.8042,Rural,0.0,
+eastern-ok,40119011101,Ingalls Fire Department,fire_protection_service,True,-96.8796,36.1015,9.6777,Rural,0.0,
+eastern-ok,40091779900,Tiger Mountain Rural Fire Department,fire_protection_service,True,-95.8407,35.4306,9.5861,Rural,1.0,Creek OTSA
+eastern-ok,40021977600,Illinois River Area Volunteer Fire Department,fire_protection_service,True,-94.8384,36.0916,9.496,Rural,1.0,Cherokee OTSA
+eastern-ok,40091779900,Salem-Ryal Fire Department,fire_protection_service,True,-95.9637,35.373,9.4108,Rural,1.0,Creek OTSA
+eastern-ok,40109109202,Luther Fire Department,fire_protection_service,True,-97.1944,35.6621,9.3662,Rural,0.6265,Iowa OTSA
+eastern-ok,40031002003,Hulen Volunteer Fire Department,community_services_non_profits,True,-98.2268,34.5071,9.2788,Rural,1.0,Kiowa-Comanche-Apache-Fort Sill Apache OTSA
+eastern-ok,40121486600,Haywood/Arpelar Volunteer Fire Department,fire_protection_service,True,-95.9476,34.884,9.2676,Rural,1.0,Choctaw OTSA
+eastern-ok,40067371700,Sugden Volunteer Fire Department ,fire_protection_service,True,-97.9795,34.0824,9.2489,Rural,1.0,Chickasaw OTSA
+eastern-ok,40031002003,Cox's Store Volunteer Fire Department,fire_protection_service,True,-98.2128,34.6371,9.144,Rural,1.0,Kiowa-Comanche-Apache-Fort Sill Apache OTSA
+eastern-ok,40101001600,Haskell Fire Department,police_department,True,-95.6752,35.8183,9.0289,Rural,1.0,Creek OTSA
+eastern-ok,40095094804,Willis-Powell Fire Department,fire_protection_service,True,-96.8314,33.9311,8.9307,Rural,1.0,Chickasaw OTSA
+eastern-ok,40081961200,Agra Volunteer Fire Department,fire_protection_service,True,-96.8716,35.8965,8.8547,Rural,1.0,Iowa OTSA
+eastern-ok,40063484700,Spaulding Volunteer Fire Department,fire_protection_service,True,-96.4406,35.0114,8.832,Rural,1.0,Creek OTSA
+eastern-ok,40121485700,Elm Point Volunteer Fire Department,fire_protection_service,True,-95.5975,35.0072,8.7944,Rural,1.0,Choctaw OTSA
+eastern-ok,40109108900,Jones Fire Department,fire_protection_service,True,-97.2908,35.5656,8.6974,Rural,0.4532,Citizen Potawatomi Nation-Absentee Shawnee OTSA
+eastern-ok,40131050602,Verdigris Fire Protection District,fire_protection_service,True,-95.6774,36.2414,8.4352,Urban,1.0,Cherokee OTSA
+eastern-ok,40071001200,Kildare Fire Department,fire_protection_service,True,-97.049,36.8078,8.4243,Rural,1.0,Kaw OTSA
+eastern-ok,40097040100,Pryor Fire Department,fire_protection_service,True,-95.3094,36.2931,8.2546,Urban,1.0,Cherokee OTSA
+eastern-ok,40079040500,Wister Fire Department,police_department,True,-94.7252,34.9681,8.1193,Rural,1.0,Choctaw OTSA
+eastern-ok,40041375901,Eucha Fire Department,fire_protection_service,True,-94.8804,36.3922,8.0814,Rural,1.0,Cherokee OTSA
+eastern-ok,40121485800,Indianola Fire Department,fire_protection_service,True,-95.775,35.1636,8.0539,Rural,1.0,Choctaw OTSA
+eastern-ok,40101001302,Keefeton Volunteer Fire & Rescue,central_government_office,True,-95.3396,35.5903,8.0478,Rural,1.0,Cherokee OTSA
+eastern-ok,40021977901,Sparrow Hawk Village Fire Department,fire_protection_service,True,-94.8944,35.9825,8.0127,Urban,1.0,Cherokee OTSA
+eastern-ok,40121485601,Longtown Volunteer FireDepartment,fire_protection_service,True,-95.5175,35.2409,7.9861,Rural,1.0,Choctaw OTSA
+eastern-ok,40137000800,"Oakridge Volunteer Fire Department - Duncan, OK",fire_protection_service,True,-97.8877,34.4543,7.9715,Rural,1.0,Kiowa-Comanche-Apache-Fort Sill Apache OTSA
+eastern-ok,40137000800,Empire Volunteer Fire Department,fire_protection_service,True,-98.0308,34.4637,7.7829,Rural,1.0,Kiowa-Comanche-Apache-Fort Sill Apache OTSA
+eastern-ok,40135030401,Gans Volunteer Fire Department,fire_protection_service,True,-94.6928,35.3883,7.6339,Rural,1.0,Cherokee OTSA
+eastern-ok,40137000901,Central High Volunteer Fire Department,fire_protection_service,True,-98.0899,34.6068,7.5476,Rural,1.0,Kiowa-Comanche-Apache-Fort Sill Apache OTSA
+eastern-ok,40135030303,Sallisaw Fire Department Station 1 - Headquarters,fire_protection_service,True,-94.7912,35.4591,7.5182,Urban,1.0,Cherokee OTSA
+eastern-ok,40135030105,Liberty Volunteer Firefighter,fire_protection_service,True,-94.5459,35.4779,7.4547,Rural,1.0,Cherokee OTSA
+eastern-ok,40039960401,Arapaho Fire Department,fire_protection_service,True,-98.9598,35.5785,7.4038,Rural,1.0,Cheyenne and Arapaho OTSA
+eastern-ok,40041375805,Monkey Island Fire Department,fire_protection_service,True,-94.8666,36.5904,7.344,Rural,1.0,Cherokee OTSA
+eastern-ok,40135030303,Liberty Volunteer Fire Department,fire_protection_service,True,-94.789,35.4583,7.3306,Urban,1.0,Cherokee OTSA
+eastern-ok,40121485800,Arrowhead Estates Volunteer Fire Department,fire_protection_service,True,-95.6189,35.1744,7.1891,Rural,1.0,Choctaw OTSA
+eastern-ok,40021977701,Norwood Rural Volunteer Fire,fire_protection_service,True,-95.1643,35.8707,7.186,Rural,1.0,Cherokee OTSA
+eastern-ok,40069660300,Reagan Volunteer Fire Department,fire_protection_service,True,-96.776,34.3591,6.7544,Rural,1.0,Chickasaw OTSA
+eastern-ok,40037020705,Silver City Fire Rescue,fire_protection_service,True,-96.4591,36.0828,6.5897,Rural,1.0,Creek OTSA
+eastern-ok,40017301410,Mustang Fire Department,fire_protection_service,True,-97.7328,35.3921,6.461,Urban,0.5011,Cheyenne and Arapaho OTSA
+eastern-ok,40085094100,Marietta Oklahoma Fire Department,fire_protection_service,True,-97.117,33.9369,6.2381,Rural,1.0,Chickasaw OTSA
+eastern-ok,40085094100,Lake Murray Village Fire Department,physical_therapy,True,-97.1213,33.9366,6.065,Rural,1.0,Chickasaw OTSA
+eastern-ok,40123088600,Happyland Volunteer Fire Department,fire_protection_service,True,-96.5537,34.7973,5.9765,Rural,1.0,Chickasaw OTSA
+eastern-ok,40081961401,Sparks Fire Department Station #2,,False,-96.8844,35.5915,5.8575,Rural,1.0,Sac and Fox OTSA
+eastern-ok,40113940007,Rock Volunteer Fire Department,physical_therapy,True,-96.1167,36.2193,5.8462,Rural,1.0,Osage Reservation
+eastern-ok,40101001200,Mountain View Volunteer Fire Department,fire_protection_service,True,-95.465,35.7269,5.8104,Rural,1.0,Creek OTSA
+eastern-ok,40023966900,Fort Towson Fire Department,fire_protection_service,True,-95.2663,34.0191,5.7794,Rural,1.0,Choctaw OTSA
+eastern-ok,40087400204,Goldsby Fire Department,central_government_office,True,-97.4763,35.1452,5.7735,Rural,1.0,Chickasaw OTSA
+eastern-ok,40051000600,Pioneer Fire Department,fire_protection_service,True,-98.0089,34.9962,5.56,Rural,1.0,Kiowa-Comanche-Apache-Fort Sill Apache OTSA
+eastern-ok,40119010902,"City Of Stillwater, Fire Station #4",central_government_office,False,-97.1177,36.1011,5.2826,Urban,0.0,
+eastern-ok,40109108533,Deer Creek Fire Department,fire_protection_service,True,-97.6032,35.6841,5.2826,Rural,0.0,
+eastern-ok,40085094200,Enville Volunteer Fire Department,fire_protection_service,True,-96.9877,33.9983,5.2778,Rural,1.0,Chickasaw OTSA
+eastern-ok,40065968700,Altus Fire Department,fire_protection_service,True,-99.331,34.6387,5.0319,Urban,1.0,Kiowa-Comanche-Apache-Fort Sill Apache OTSA
+eastern-ok,40121485800,Canadian Shores Volunteer Fire Department,fire_protection_service,True,-95.7424,35.172,5.0119,Rural,1.0,Choctaw OTSA
+eastern-ok,40031002301,Pecan Creek Volunteer Fire Dept,fire_protection_service,True,-98.5451,34.6079,4.9728,Rural,1.0,Kiowa-Comanche-Apache-Fort Sill Apache OTSA
+eastern-ok,40013796003,West Bryan County Fire Department,fire_protection_service,True,-96.5578,33.9984,4.3624,Rural,1.0,Chickasaw OTSA
+eastern-ok,40021977901,Illinois River Volunteer Fire,fire_protection_service,True,-94.9372,35.9795,4.261,Urban,1.0,Cherokee OTSA
+eastern-ok,40121485800,Canadian Vol Fire Dept,central_government_office,True,-95.652,35.1782,4.2517,Rural,1.0,Choctaw OTSA
+eastern-ok,40101001501,Webbers Falls Fire Department,fire_protection_service,True,-95.14,35.5105,4.0274,Rural,1.0,Cherokee OTSA
+eastern-ok,40121486000,Alderson Fire Department,fire_protection_service,True,-95.692,34.9006,3.77,Rural,1.0,Choctaw OTSA
+eastern-ok,40037021600,Sapulpa Fire Department Station 3,fire_protection_service,True,-96.1125,35.9762,3.7062,Urban,1.0,Creek OTSA
+eastern-ok,40145030403,Rolling Hills Fire District #1,fire_protection_service,True,-95.7542,36.1592,3.4431,Urban,1.0,Creek OTSA
+eastern-ok,40115574200,Quapaw Nation Miami Fire Station 1,,False,-94.8413,36.9251,3.3211,Urban,1.0,Quapaw OTSA
+eastern-ok,40095094803,Buncombe Creek Volunteer Fire Department,community_services_non_profits,True,-96.778,33.9046,3.236,Rural,1.0,Chickasaw OTSA
+eastern-ok,40109108802,Choctaw Fire Department,fire_protection_service,True,-97.2804,35.4934,3.2317,Urban,1.0,Citizen Potawatomi Nation-Absentee Shawnee OTSA
+eastern-ok,40017300400,El Reno Fire Department,fire_protection_service,True,-97.9557,35.5339,2.9643,Urban,1.0,Cheyenne and Arapaho OTSA
+eastern-ok,40147000601,Washington County Fire Department,central_government_office,True,-95.8999,36.7364,2.748,Urban,1.0,Cherokee OTSA
+eastern-ok,40021978301,"Keys Volunteer Fire Department (Park Hill, Oklahoma)",public_service_and_government,True,-94.9587,35.8604,2.6611,Rural,1.0,Cherokee OTSA
+eastern-ok,40041375804,Cleora Community Fire Department,fire_protection_service,True,-94.974,36.554,2.2531,Rural,1.0,Cherokee OTSA
+eastern-ok,40047000200,Breckinridge Fire Dept,fire_protection_service,True,-97.864,36.4348,2.2479,Urban,0.0,
+eastern-ok,40109107002,Fire Department Fire Maintenance,fire_protection_service,True,-97.5815,35.4719,2.236,Urban,0.0,
+eastern-ok,40131050201,Claremore Fire Department,fire_protection_service,True,-95.6127,36.3304,2.2128,Urban,1.0,Cherokee OTSA
+eastern-ok,40041375602,Cowskin Fire Department,fire_protection_service,True,-94.7069,36.6409,2.0968,Rural,1.0,Seneca-Cayuga OTSA
+eastern-ok,40109107002,Oklahoma City Fire Department,public_service_and_government,True,-97.5822,35.4736,2.0692,Urban,0.0,
+eastern-ok,40061279200,Stigler Fire Department,central_government_office,True,-95.1262,35.2534,2.0142,Rural,1.0,Choctaw OTSA
+eastern-ok,40143007646,The Fire Station,cannabis_dispensary,False,-95.8729,36.0598,1.9815,Urban,1.0,Creek OTSA
+eastern-ok,40143006600,Berryhill Fire Department,fire_protection_service,True,-96.0592,36.1048,1.9454,Urban,1.0,Creek OTSA
+eastern-ok,40131050603,Tiawah Fire Department,physical_therapy,True,-95.5691,36.2451,1.8781,Rural,1.0,Cherokee OTSA
+eastern-ok,40119010400,Stillwater Fire Department Station 2,fire_protection_service,True,-97.0654,36.1201,1.7605,Urban,0.0,
+eastern-ok,40131050409,Fair Oaks Fire Protection District,fire_protection_service,True,-95.6729,36.1719,1.7308,Rural,1.0,Cherokee OTSA
+eastern-ok,40051001000,Grady County Fire Dept,home_security,True,-97.9358,35.0534,1.7068,Urban,1.0,Chickasaw OTSA
+eastern-ok,40095094805,Texoma Volunteer Fire Department,fire_protection_service,True,-96.6364,33.9835,1.4986,Rural,1.0,Chickasaw OTSA
+eastern-ok,40031002500,Hulen Fire Department,fire_protection_service,True,-98.3876,34.6055,0.9593,Urban,1.0,Kiowa-Comanche-Apache-Fort Sill Apache OTSA
+eastern-ok,40149965100,Cloud Chief Fire Dept,fire_protection_service,True,-98.9932,35.2978,0.9355,Rural,1.0,Cheyenne and Arapaho OTSA
+eastern-ok,40109104200,Oklahoma City Fire Department Station 21,fire_protection_service,True,-97.5743,35.4349,0.8269,Urban,0.0,
+eastern-ok,40031002101,Elgin Fire Department,fire_protection_service,True,-98.295,34.7828,0.7947,Rural,1.0,Kiowa-Comanche-Apache-Fort Sill Apache OTSA
+eastern-ok,40109102500,Oklahoma Fire Department,fire_protection_service,True,-97.5178,35.4803,0.6944,Urban,0.0,
+eastern-ok,40031002202,Wichita Mountain Estates Volunteer Fire Department,fire_protection_service,True,-98.4351,34.7247,0.657,Rural,1.0,Kiowa-Comanche-Apache-Fort Sill Apache OTSA
+eastern-ok,40121485900,Blue Fire Department,professional_services,True,-95.8868,34.9436,0.6174,Rural,1.0,Choctaw OTSA
+eastern-ok,40085094200,Criner Hills Fire Department,fire_protection_service,True,-97.1933,34.0663,0.5705,Rural,1.0,Chickasaw OTSA
+eastern-ok,40101000400,Porum Volunteer Fire Department,fire_protection_service,True,-95.3697,35.7491,0.5463,Urban,1.0,Creek OTSA
+eastern-wa,53043960400,Lincoln County Fire District 1,fire_protection_service,True,-117.9711,47.3035,36.3525,Rural,0.0,
+eastern-wa,53019970200,Family of Republic Volunteer Fire Department ,fire_protection_service,True,-118.7371,48.6473,30.6195,Rural,0.0,
+eastern-wa,53001950400,Adams County Fire District,fire_protection_service,True,-119.1761,46.8239,30.4425,Urban,0.0,
+eastern-wa,53025011405,Grant County Fire District 10,fire_protection_service,True,-119.6226,46.9003,28.3114,Rural,0.0,
+eastern-wa,53043960300,Lincoln Fire Station,ambulance_and_ems_services,True,-118.4242,47.8283,28.2028,Rural,0.0,
+eastern-wa,53017950102,Douglas County Fire District #5,ambulance_and_ems_services,True,-119.6392,47.8126,27.0426,Rural,0.0,
+eastern-wa,53073010103,Glacier Fire Protection District 19,fire_protection_service,True,-121.9467,48.8896,26.936,Rural,0.001,Nooksack Off-Reservation Trust Land
+eastern-wa,53001950200,Adams County Fire District #2 ,fire_protection_service,True,-118.6168,46.9722,24.8184,Rural,0.0,
+eastern-wa,53047970400,Tonasket Fire Department,fire_protection_service,True,-119.4426,48.7037,24.07,Rural,0.0,
+eastern-wa,53051970200,Pend Oreille County Fire District #5,fire_protection_service,True,-117.2694,48.4873,23.9459,Rural,0.0224,Kalispel Reservation
+eastern-wa,53003960100,Blue Mountain Fire District 1,fire_protection_service,True,-117.1335,46.1369,23.391,Urban,0.0,
+eastern-wa,53071920100,Fire Departments Fire Dist No 6,ambulance_and_ems_services,True,-118.6722,46.0373,22.1255,Rural,0.0001,Umatilla Off-Reservation Trust Land
+eastern-wa,53065950102,Stevens County Fire District 12,community_services_non_profits,True,-118.1669,48.4281,21.6499,Rural,0.0,
+eastern-wa,53037975700,Kittitas County Fire District #4,fire_protection_service,True,-119.9897,46.9459,21.1273,Rural,0.0,
+eastern-wa,53037975101,Kittitas County Fire District Number 7,fire_protection_service,True,-120.6665,47.2538,16.9626,Rural,0.0,
+eastern-wa,53047970303,Tunk Creek Volunteer Fire Department,fire_protection_service,True,-119.2462,48.4906,15.8417,Rural,0.0,
+eastern-wa,53021020801,Franklin County Fire District 4,fire_protection_service,True,-119.1419,46.5908,14.9154,Rural,0.0,
+eastern-wa,53007960201,Chelan County Fire District 3,fire_protection_service,True,-120.6521,47.6009,14.7357,Rural,0.0,
+eastern-wa,53037975203,Kittitas County Fire District 1,fire_protection_service,True,-120.674,47.0694,14.4592,Rural,0.0,
+eastern-wa,53047970302,Okanogan County Fire District 12,fire_protection_service,True,-119.3372,48.8331,13.7551,Rural,0.0,
+eastern-wa,53071920100,Walla Walla County Fire District #8,fire_protection_service,True,-118.1573,46.1396,13.4038,Rural,0.0001,Umatilla Off-Reservation Trust Land
+eastern-wa,53065950800,Stevens County Fire District 5,fire_protection_service,True,-117.8363,48.3599,11.6156,Rural,0.0007,Spokane Off-Reservation Trust Land
+eastern-wa,53039950200,Dallesport/ Murdock Volunteer Fire Department,community_services_non_profits,True,-121.1795,45.6188,11.6098,Rural,0.0262,Yakama Nation Off-Reservation Trust Land
+eastern-wa,53019970100,Joint Fire Protection District 3 & 8,fire_protection_service,True,-118.1422,48.7735,10.8582,Rural,0.0,
+eastern-wa,53063013300,Spokane County Fire District 8,fire_protection_service,True,-117.2421,47.5343,10.3767,Rural,0.0,
+eastern-wa,53047970800,Pateros Volunteer Fire Department,fire_protection_service,True,-119.8967,48.0568,9.777,Rural,0.0,
+eastern-wa,53065950101,Northport Fire Department,community_services_non_profits,True,-117.781,48.9173,9.4932,Rural,0.0,
+eastern-wa,53039950200,High Prairie Fire Department - District #14,fire_protection_service,True,-121.1793,45.72,8.7559,Rural,0.0262,Yakama Nation Off-Reservation Trust Land
+eastern-wa,53077001901,Fire Departments Fire District No 5 Grandview City,fire_protection_service,True,-119.9043,46.2551,8.6427,Urban,0.0,
+eastern-wa,53025010300,Grant County Fire District 7,fire_protection_service,True,-119.4933,47.3728,8.1052,Rural,0.0,
+eastern-wa,53039950302,Klickitat County Fire District,fire_protection_service,True,-121.487,45.7979,7.709,Rural,0.0011,Yakama Nation Off-Reservation Trust Land
+eastern-wa,53071920000,Walla Walla County Fire District 5,fire_protection_service,True,-119.005,46.1975,7.2715,Rural,0.0,
+eastern-wa,53063013800,Fairchild AFB Fire Department,fire_protection_service,True,-117.6574,47.6203,6.7856,Urban,0.0,
+eastern-wa,53007960100,Chelan County Fire District #8,fire_protection_service,True,-120.2148,47.675,5.7759,Rural,0.0,
+eastern-wa,53025011101,Moses Lake Fire Department Station 2,fire_protection_service,True,-119.3059,47.1078,3.9432,Urban,0.0,
+eastern-wa,53065951402,Stevens County Fire Protection District 1 Station 8 - Suncrest,fire_protection_service,True,-117.5745,47.8142,3.6362,Rural,0.0,
+eastern-wa,53063013102,Greenacres Fire Station Spokane Valley Fire Department Sta.10,printing_services,True,-117.1726,47.6574,3.0207,Urban,0.0,
+eastern-wa,53021020501,Franklin County Fire District 3,fire_protection_service,True,-119.2016,46.2476,2.5671,Urban,0.0,
+eastern-wa,53063001500,Fire Departments,police_department,True,-117.3947,47.6838,2.2292,Urban,0.0,
+eastern-wa,53063002100,Fire Departments,police_department,True,-117.4376,47.6746,2.0659,Urban,0.0,
+eastern-wa,53063014002,Spokane County Fire District 3 Station 31,fire_protection_service,True,-117.5974,47.478,2.0442,Urban,0.0,
+eastern-wa,53021020101,City of Pasco Fire Department,,True,-119.0831,46.2194,1.7751,Urban,0.0,
+eastern-wa,53037975101,Ronald Fire Station,fire_protection_service,True,-121.0437,47.2374,1.5863,Rural,0.0,
+eastern-wa,53063002000,Spokane Fire Department Station 3,fire_protection_service,True,-117.4269,47.669,1.5653,Urban,0.0,
+eastern-wa,53063010401,Airway Heights Fire Department,fire_protection_service,True,-117.5936,47.6444,1.3175,Urban,0.0749,Kalispel Off-Reservation Trust Land
+eastern-wa,53071920600,Milton Freewater Rural Fire Department and Ambulance,fire_protection_service,True,-118.3406,46.0643,0.9895,Urban,0.0,
+eastern-wa,53063010301,Deer Park City Fire Department,fire_protection_service,True,-117.4609,47.9521,0.8204,Rural,0.0,
+eastern-wa,53005010901,Kennewick Fire Department Station 3,fire_protection_service,True,-119.2203,46.2227,0.7661,Urban,0.0,
+eastern-wa,53047970700,Okanogan Volunteer Fire Department,organization,False,-119.5809,48.3646,0.7542,Urban,0.0,
+eastern-wa,53005010500,"Hanford Fire Department's Union Firefighters, Local I-24",community_services_non_profits,True,-119.2806,46.2762,0.7258,Urban,0.0,
+eastern-wa,53065950101,Stevens County Fire District 11,fire_protection_service,True,-117.8543,48.8507,0.6503,Rural,0.0,
+maricopa-az,04019005200,Why Fire District,fire_protection_service,True,-112.7416,32.2639,76.2765,Rural,0.0,
+maricopa-az,04019005200,Ajo Fire Department,fire_protection_service,True,-112.8593,32.3718,65.4919,Rural,0.0,
+maricopa-az,04025001300,Bagdad Fire Department,fire_protection_service,True,-113.177,34.5728,45.5585,Rural,0.0,
+maricopa-az,04025002100,Seligman Fire District,fire_protection_service,True,-112.8792,35.3277,37.2975,Rural,0.0009,Hualapai Indian Reservation
+maricopa-az,04017940100,CBQ Fire Station,fire_protection_service,True,-110.4884,34.039,36.9577,Rural,1.0,Fort Apache Reservation
+maricopa-az,04005001500,Blue Ridge Fire Department,fire_protection_service,True,-111.1081,34.634,35.4745,Rural,0.009,Navajo Nation Reservation
+maricopa-az,04001970502,Alpine Fire Department,fire_protection_service,True,-109.1391,33.8469,32.6822,Rural,0.4412,Fort Apache Reservation
+maricopa-az,04007000800,Tonto Basin Fire District,fire_protection_service,True,-111.0057,33.6026,26.1596,Rural,0.0,
+maricopa-az,04001970502,Vernon Fire District,fire_protection_service,True,-109.6928,34.2551,23.1819,Rural,0.4412,Fort Apache Reservation
+maricopa-az,04015954802,Golden Valley Fire District Station 13,political_organization,False,-114.119,35.1317,20.9398,Rural,0.0002,Hualapai Indian Reservation
+maricopa-az,04005001500,Forest Lakes Fire District,fire_protection_service,True,-110.799,34.337,20.091,Rural,0.009,Navajo Nation Reservation
+maricopa-az,04019004052,Mt Lemmon Fire District,fire_protection_service,True,-110.7547,32.449,18.8625,Urban,0.0,
+maricopa-az,04023966000,Sonoita-Elgin Fire District,fire_protection_service,True,-110.6554,31.681,17.9751,Rural,0.0,
+maricopa-az,04005001500,Mormon Lake Fire District,fire_protection_service,True,-111.4544,34.9051,17.3483,Rural,0.009,Navajo Nation Reservation
+maricopa-az,04021000201,Queen Valley Fire District,fire_protection_service,True,-111.2879,33.2996,16.2148,Urban,0.0,
+maricopa-az,04021000700,San Manuel Fire Department,fire_protection_service,True,-110.6201,32.6048,15.8803,Rural,0.0,
+maricopa-az,04007000600,Gisela Valley Fire Department,fire_protection_service,True,-111.2854,34.0965,15.6448,Rural,0.0,
+maricopa-az,04021002300,Kearny Volunteer Fire Department,fire_protection_service,True,-110.9063,33.0595,14.9275,Rural,0.0,
+maricopa-az,04025001402,Southern Yavapai Fire Department,fire_protection_service,True,-112.593,34.4178,12.6644,Rural,0.0,
+maricopa-az,04025001201,Williamson Valley-Bagdad Fire District 91,fire_protection_service,True,-112.5954,34.7683,11.5842,Rural,0.0,
+maricopa-az,04025001403,Congress Fire District,fire_protection_service,True,-112.8467,34.1625,11.3447,Rural,0.0,
+maricopa-az,04005001302,Timberline-fernwood Fire Department - Main Station,fire_protection_service,True,-111.5419,35.3111,11.3237,Rural,0.0,Navajo Nation Off-Reservation Trust Land
+maricopa-az,04005001302,Summit Fire Department Station 33,real_estate_service,True,-111.5419,35.3109,11.3018,Rural,0.0,Navajo Nation Off-Reservation Trust Land
+maricopa-az,04005001302,Summit Fire District,fire_protection_service,True,-111.5413,35.3112,11.2908,Rural,0.0,Navajo Nation Off-Reservation Trust Land
+maricopa-az,04003000305,Saint David Fire District,fire_protection_service,True,-110.2112,31.9016,10.5123,Rural,0.0,
+maricopa-az,04019004424,Three Points Fire District Station 302,fire_protection_service,True,-111.2166,32.1345,9.8422,Rural,0.0,
+maricopa-az,04017960100,Holbrook Volunteer Fire Department,fire_protection_service,True,-110.1415,34.9336,9.8171,Rural,0.0,
+maricopa-az,04007000200,Whispering Pines Fire Station 72,fire_protection_service,True,-111.269,34.4076,8.4633,Rural,0.0,
+maricopa-az,04009961100,Pima Volunteer Fire Department,fire_protection_service,True,-109.8318,32.8947,8.234,Rural,0.0,
+maricopa-az,04019004715,Golder Ranch Fire District,health_and_medical,False,-110.9109,32.4823,8.2298,Urban,0.0,
+maricopa-az,04021001701,North Hidden Valley Fire Department,ambulance_and_ems_services,True,-112.1441,33.0579,7.9481,Rural,0.0,
+maricopa-az,04013010102,Goldfield Ranch Volunteer Fire Department,community_services_non_profits,True,-111.593,33.5879,7.8915,Urban,0.0,
+maricopa-az,04005002201,Ponderosa Fire District,fire_protection_service,True,-111.8166,35.2373,7.647,Rural,0.0018,Navajo Nation Off-Reservation Trust Land
+maricopa-az,04023966101,Tubac Fire District,fire_protection_service,True,-111.052,31.6154,6.8321,Rural,0.0,
+maricopa-az,04023966301,Nogales Suburban Fire District,fire_protection_service,True,-110.8758,31.3868,6.7232,Urban,0.0,
+maricopa-az,04013610001,Fire Station 146,fire_protection_service,True,-112.1278,33.9208,6.5773,Rural,0.0,
+maricopa-az,04013116610,Laveen Fire Department,professional_services,True,-112.1613,33.3633,5.9459,Urban,0.0,
+maricopa-az,04003001900,Fry Fire District,fire_protection_service,True,-110.2657,31.4815,5.8057,Urban,0.0,
+maricopa-az,04025001502,Mayer Fire District,fire_protection_service,True,-112.183,34.3712,5.517,Rural,0.0,
+maricopa-az,04003001100,Naco Fire District,fire_protection_service,True,-109.9492,31.3356,5.289,Urban,0.0,
+maricopa-az,04013061100,Luke Air Force Base Fire Department Station 361,armed_forces_branch,True,-112.3656,33.5399,5.2648,Urban,0.0,
+maricopa-az,04021001712,Station 572 Maricopa Fire Department,fire_protection_service,True,-111.9594,33.057,5.2121,Urban,0.0,
+maricopa-az,04013522801,Mesa Fire Department Station 215,fire_protection_service,True,-111.6688,33.3082,4.9127,Urban,0.0,
+maricopa-az,04023966111,Rio Rico Fire District,fire_protection_service,True,-110.9347,31.4358,4.5146,Rural,0.0,
+maricopa-az,04017963300,Snowflake Fire Department,fire_protection_service,True,-110.0845,34.5036,4.0234,Urban,0.0,
+maricopa-az,04025000901,Prescott Fire Department,fire_protection_service,True,-112.4698,34.5442,4.0175,Urban,0.0,
+maricopa-az,04019004632,mountain Vista fire Department. station 620,fire_protection_service,True,-111.0291,32.3759,4.0093,Urban,0.0,
+maricopa-az,04007000200,Christopher Kohl's Fire Department Kohl's Ranch Station 52,hotel,True,-111.0942,34.325,3.913,Rural,0.0,
+maricopa-az,04003000303,Pomerene Volunteer Fire Department,community_services_non_profits,True,-110.2855,31.9986,3.8643,Rural,0.0,
+maricopa-az,04007000200,Whispering Pine Vol Fire Department,fire_protection_service,True,-111.2824,34.3668,3.7524,Rural,0.0,
+maricopa-az,04017962502,Pinetop Fire District,fire_protection_service,True,-109.9266,34.1235,3.4886,Urban,0.0,
+maricopa-az,04019003601,Davis-Monthan Fire Station 2,fire_protection_service,True,-110.8815,32.1873,2.4962,Urban,0.0,
+maricopa-az,04013422509,Gilbert Fire Station 3,fire_protection_service,True,-111.7692,33.3643,2.1972,Urban,0.0,
+maricopa-az,04005001201,City Of Flagstaff - Fire Dept,health_and_medical,False,-111.6518,35.1992,2.1194,Urban,0.0,
+maricopa-az,04007001200,Canyon Fire District,fire_protection_service,True,-110.7726,33.3829,2.0765,Urban,0.0,
+maricopa-az,04013050613,City Of Buckeye Fire Department,fire_protection_service,True,-112.5171,33.4343,2.0762,Urban,0.0,
+maricopa-az,04021000311,Apache Junction Fire District 262,fire_protection_service,True,-111.5056,33.4223,2.0671,Urban,0.0,
+maricopa-az,04013050701,Buckeye Valley Fire District,central_government_office,False,-112.5893,33.3896,2.0509,Urban,0.0,
+maricopa-az,04013723304,Buckeye Rural Fire District,central_government_office,True,-112.5004,33.3279,2.0164,Urban,0.0,
+maricopa-az,04013420214,Rural Metro Fire Department Station 857,fire_protection_service,True,-111.685,33.4224,1.8995,Urban,0.0,
+maricopa-az,04013116617,Fantastic Fire Department,arts_and_entertainment,False,-112.1106,33.3729,1.7653,Urban,0.0,
+maricopa-az,04019002000,Drexel Heights Fire Department,fire_protection_service,True,-110.919,32.206,1.7017,Urban,0.0,
+maricopa-az,04019004320,Drexel Heights Fire District,fire_protection_service,True,-111.0496,32.1241,1.6119,Urban,0.0269,Pascua Pueblo Yaqui Reservation
+maricopa-az,04019004625,La Canada Fire District,fire_protection_service,True,-111.0167,32.3475,1.5939,Urban,0.0,
+maricopa-az,04025000617,Central Yavapai Fire District,fire_protection_service,True,-112.2971,34.583,1.5562,Urban,0.0,
+maricopa-az,04023966402,Old Nogales City Hall And Fire Station,landmark_and_historical_building,True,-110.9414,31.3348,1.5266,Urban,0.0,
+maricopa-az,04013061300,Goodyear Fire Department,fire_protection_service,True,-112.3605,33.436,1.5097,Urban,0.0,
+maricopa-az,04013114800,City Of Phoenix Fire Department,health_and_medical,False,-112.0989,33.4238,1.2459,Urban,0.0,
+maricopa-az,04019004622,Rural-Metro Fire Department,fire_protection_service,True,-110.9773,32.3525,1.2438,Urban,0.0,
+maricopa-az,04013318400,Tempe Fire Department,health_and_medical,False,-111.9235,33.4225,1.23,Urban,0.0,
+maricopa-az,04013421202,Mesa Fire Department Station 203,fire_protection_service,True,-111.8599,33.4225,0.9598,Urban,0.0,
+maricopa-az,04013420104,Mesa Fire Department Station 213,fire_protection_service,True,-111.6626,33.4226,0.9267,Urban,0.0,
+maricopa-az,04003000303,Mescal J6 Fire District,fire_protection_service,True,-110.4324,31.9651,0.8141,Rural,0.0,
+maricopa-az,04025001402,Black Canyon Fire Department,central_government_office,True,-112.1455,34.0656,0.7174,Rural,0.0,
+maricopa-az,04013117300,Phoenix Fire Department Special Operations,ems_training,False,-112.1071,33.4252,0.6508,Urban,0.0,
+maricopa-az,04019941000,Pascua Pueblo Fire Department,fire_protection_service,True,-111.0638,32.1109,0.5681,Urban,0.9638,Pascua Pueblo Yaqui Reservation
+maricopa-az,04013061010,Rural Metro Fire Department Station 837,fire_protection_service,True,-112.3585,33.4867,0.5621,Urban,0.0,
+northern-ca,06093000800,Etna Fire Department,fire_protection_service,True,-122.8927,41.457,42.4521,Rural,0.001,Quartz Valley Reservation
+northern-ca,06055201800,Capell Valley Volunteer Fire Station,fire_protection_service,True,-122.2057,38.4537,32.2658,Rural,0.0,
+northern-ca,06045010601,Chamberlain Creek Fire Station,ambulance_and_ems_services,True,-123.5637,39.3463,32.054,Rural,0.0024,Sherwood Valley Off-Reservation Trust Land
+northern-ca,06103000100,Manton Volunteer Fire Department,fire_protection_service,True,-121.871,40.4355,28.4625,Rural,0.0,
+northern-ca,06105000500,Kettenpom Zenia Volunteer Fire Dept,fire_protection_service,True,-123.461,40.1563,28.1629,Rural,0.0007,Round Valley Reservation
+northern-ca,06049000100,Likely Town West Valley Fire Station,fire_protection_service,True,-120.5518,41.4947,27.7725,Rural,0.0,
+northern-ca,06089012701,Burney Fire Protection District,fire_protection_service,True,-121.6676,40.8821,26.9401,Rural,0.0009,Pit River Trust Land
+northern-ca,06021010300,Elk Creek Volunteer Fire Department,fire_protection_service,True,-122.5386,39.6021,26.4823,Rural,0.0001,Grindstone Indian Rancheria
+northern-ca,06089012603,State of California Shingletown Forest Fire Station,central_government_office,True,-121.8614,40.4969,25.4484,Rural,0.0,
+northern-ca,06089012603,Shingletown Volunteer Fire,fire_protection_service,True,-121.8613,40.4969,25.448,Rural,0.0,
+northern-ca,06023011600,Palo Verde Volunteer Fire Department,community_services_non_profits,True,-123.5888,40.043,25.2105,Rural,0.0,
+northern-ca,06093001300,Hornbrook Fire Protection District,fire_protection_service,True,-122.5577,41.912,25.0043,Rural,0.0007,Karuk Off-Reservation Trust Land
+northern-ca,06105000500,Hyampom Volunteer Fire Department,fire_protection_service,True,-123.457,40.6169,23.9096,Rural,0.0007,Round Valley Reservation
+northern-ca,06023940000,Hoopa Fire Department and Office of Emergency Services,central_government_office,True,-123.6732,41.0474,22.4072,Rural,1.0,Hoopa Valley Reservation
+northern-ca,06093000701,South Yreka Fire District,fire_protection_service,True,-122.6364,41.6839,20.2962,Rural,0.0001,Karuk Off-Reservation Trust Land
+northern-ca,06033000100,Lake Pillsbury Fire Protection District,fire_protection_service,True,-122.9704,39.4588,19.1022,Rural,0.0022,Upper Lake Rancheria
+northern-ca,06007002402,Clipper Mills Fire Station,fire_protection_service,True,-121.1609,39.5328,17.6725,Rural,0.0005,Enterprise Rancheria
+northern-ca,06007002402,Berry Creek Volunteer Fire Company,fire_protection_service,True,-121.3727,39.6242,16.7805,Rural,0.0005,Enterprise Rancheria
+northern-ca,06023011600,Alderpoint Volunteer Fire Department,fire_protection_service,True,-123.6096,40.1735,15.5241,Rural,0.0,
+northern-ca,06057000900,Granniteville Volunteer Fire Co.,fire_protection_service,True,-120.7393,39.4407,15.3931,Rural,0.0,
+northern-ca,06045010200,Piercy Volunteer Fire Department,fire_protection_service,True,-123.7981,39.9675,15.2722,Rural,0.001,Sherwood Valley Rancheria
+northern-ca,06093000300,Montague Fire Department,fire_protection_service,True,-122.5259,41.7271,15.2707,Rural,0.0,
+northern-ca,06093000701,Gazelle Fire Department ,central_government_office,True,-122.5203,41.5224,14.8916,Rural,0.0001,Karuk Off-Reservation Trust Land
+northern-ca,06007001602,CAL FIRE Station 23,fire_protection_service,True,-121.7324,39.9255,14.771,Rural,0.0,
+northern-ca,06045010601,State of California Fire Stations,central_government_office,True,-123.3212,39.3526,14.004,Rural,0.0024,Sherwood Valley Off-Reservation Trust Land
+northern-ca,06011000302,Williams Fire Protection District,fire_protection_service,True,-122.1512,39.1542,13.7438,Urban,0.0036,Cortina Indian Rancheria
+northern-ca,06113010401,Clarksburg Fire Protection District,fire_protection_service,True,-121.5296,38.4199,12.8217,Urban,0.0,
+northern-ca,06017030603,Mosquito Fire Protection District,fire_protection_service,True,-120.7352,38.7976,12.2886,Rural,0.0,
+northern-ca,06061022013,Alta Volunteer Fire Protection,fire_protection_service,True,-120.8103,39.2069,11.6077,Rural,0.0,
+northern-ca,06021010300,Artois Fire District,fire_protection_service,True,-122.1952,39.6172,11.3581,Rural,0.0001,Grindstone Indian Rancheria
+northern-ca,06113011500,Capay Valley Fire Station Station 22,gas_station,True,-122.1932,38.8298,11.0784,Rural,0.0023,Rumsey Indian Rancheria
+northern-ca,06113010505,West Plainfield Fire Department,fire_protection_service,True,-121.8585,38.5781,11.0705,Urban,0.0,
+northern-ca,06021010502,Glenn Codora Fire Protection District,fire_protection_service,True,-122.0196,39.4943,10.381,Rural,0.0,
+northern-ca,06093000701,Grenada Fire Protection District,fire_protection_service,True,-122.5252,41.6459,10.2657,Rural,0.0001,Karuk Off-Reservation Trust Land
+northern-ca,06101051100,Pleasant Grove Fire Department,fire_protection_service,True,-121.5034,38.8243,10.254,Rural,0.0,
+northern-ca,06115041102,Dobbins Oregon House Fire Protection District,fire_protection_service,True,-121.2547,39.3613,10.0508,Rural,0.0,
+northern-ca,06035040400,Litchfield Town Standish Litchfield Fire Department,fire_protection_service,True,-120.4546,40.3715,10.0209,Rural,0.0,
+northern-ca,06093000902,Mt Shasta Vista Volunteer Fire,fire_protection_service,True,-122.3143,41.567,9.8344,Rural,0.0,
+northern-ca,06063000202,Long Valley Fire Department,fire_protection_service,True,-120.7023,39.8682,9.8256,Rural,0.0,
+northern-ca,06007003600,Richvale Volunteer Fire Dept,fire_protection_service,True,-121.7472,39.4951,9.6652,Rural,0.0,
+northern-ca,06063000100,Quincy Fire Department,fire_protection_service,True,-120.948,39.9377,9.3903,Rural,0.0,
+northern-ca,06103001000,Capay Fire Department,fire_protection_service,True,-122.0851,39.7991,9.2369,Rural,0.0,
+northern-ca,06057000900,North San Juan Fire Protection District,fire_protection_service,True,-121.0652,39.3531,8.3389,Rural,0.0,
+northern-ca,06101050900,Robbins Volunteer Fire Department,community_services_non_profits,True,-121.7025,38.8698,8.0935,Rural,0.0,
+northern-ca,06089012702,Fall River Mills Volunteer Fire Department,fire_protection_service,True,-121.4376,41.0051,6.0428,Rural,0.0,
+northern-ca,06063000400,Crescent Mills Volunteer Fire Department,fire_protection_service,True,-120.9118,40.0967,5.8326,Rural,0.0002,Greenville Rancheria
+northern-ca,06063000502,Peninsula Fire District,fire_protection_service,True,-121.1454,40.2477,5.314,Rural,0.0,
+northern-ca,06017030601,Cool Fire Station,fire_protection_service,True,-121.0172,38.8889,5.2197,Rural,0.0,
+northern-ca,06089012606,Forest Fire Station,fire_protection_service,True,-122.0962,40.704,4.8194,Rural,0.0005,Roaring Creek Rancheria
+northern-ca,06061020605,South Placer Fire District,fire_protection_service,True,-121.1722,38.736,4.4915,Urban,0.0,
+northern-ca,06113011207,Willow Oak Fire Department,fire_protection_service,True,-121.8684,38.6767,4.2306,Rural,0.0,
+northern-ca,06113011500,Esparto Fire Department,fire_protection_service,True,-122.0169,38.6934,4.1601,Rural,0.0023,Rumsey Indian Rancheria
+northern-ca,06097154100,Dry Creek Rancheria Fire Department,ambulance_and_ems_services,True,-122.8587,38.7031,3.8738,Rural,0.0007,Dry Creek Rancheria
+northern-ca,06045011800,Hopland Fire Protection District,fire_protection_service,True,-123.1181,38.9699,3.7022,Rural,0.01,Hopland Rancheria
+northern-ca,06063000201,Graeagle Fire Protection District,fire_protection_service,True,-120.6194,39.7698,3.4584,Rural,0.0,
+northern-ca,06007000501,Fire Station,fire_protection_service,True,-121.8849,39.7429,3.1509,Urban,0.0,
+northern-ca,06061020605,Fire Departments South Placer Fire District,central_government_office,True,-121.2139,38.7291,2.6931,Urban,0.0,
+northern-ca,06007001702,Upper Ridge Volunteer Fire Company 33,central_government_office,True,-121.6098,39.8659,2.4181,Urban,0.0,
+northern-ca,06061022014,Alpine Meadows Fire Department,public_service_and_government,False,-120.199,39.1885,1.9602,Rural,0.0,
+northern-ca,06115040702,Olivehurst Public Utility District Fire Department,fire_protection_service,True,-121.5505,39.0761,1.7961,Urban,0.0,
+northern-ca,06093001002,Mount Shasta Fire District,fire_protection_service,True,-122.3172,41.2977,1.771,Urban,0.0,
+northern-ca,06061020300,Auburn City Fire Department Station 1 - Martin Park,fire_protection_service,True,-121.0667,38.904,1.4907,Urban,0.0,
+northern-ca,06067007403,Fire Stations 4 Hire,kids_recreation_and_party,True,-121.3861,38.6768,1.0843,Urban,0.0,
+northern-ca,06101050201,Yuba City Fire Dept,central_government_office,True,-121.6339,39.1343,0.7727,Urban,0.0,
+northern-ca,06089012200,Cottonwood Fire Protection District,fire_protection_service,True,-122.2808,40.3827,0.7344,Rural,0.0,
+northern-ca,06035040303,Forestry Fire Station,central_government_office,True,-120.6465,40.4206,0.6577,Urban,0.0101,Susanville Off-Reservation Trust Land
+northern-ca,06011000500,Sacramento River Fire District,fire_protection_service,True,-122.0048,39.2132,0.6332,Urban,0.0,
+northern-ca,06011000500,Grimes Fire Department,fire_protection_service,True,-122.0059,39.2144,0.5037,Urban,0.0,
+northern-ca,06103000201,Lake California Volunteer Fire Department,community_services_non_profits,True,-122.2121,40.359,0.5007,Rural,0.0,
+south-central-tx,48137950300,Rocksprings Fire Department,fire_protection_service,True,-100.2115,30.0174,53.5542,Rural,0.0,
+south-central-tx,48137950300,Rocksprings Volunteer Fire Department,fire_protection_service,True,-100.208,30.0168,53.2483,Rural,0.0,
+south-central-tx,48283950302,La Salle County Fire Rescue Encinal Station,fire_protection_service,True,-99.3644,28.0462,43.7687,Rural,0.0,
+south-central-tx,48033950100,Borden County Volunteer Fire Department,fire_protection_service,True,-101.4481,32.7709,37.0188,Rural,0.0,
+south-central-tx,48023950302,Seymour Baylor County Volunteer Fire Department,fire_protection_service,True,-99.2599,33.5926,34.223,Rural,0.0,
+south-central-tx,48507950100,Batesville Volunteer Fire department ,printing_services,True,-99.6181,28.9614,31.845,Rural,0.0,
+south-central-tx,48013960102,Paisano Volunteer Fire Department,community_services_non_profits,True,-98.3028,28.7464,29.6581,Rural,0.0,
+south-central-tx,48095950300,Lake Ivie Volunteer Fire Department,fire_protection_service,True,-99.762,31.5244,29.6449,Rural,0.0,
+south-central-tx,48235950100,Barnhart Fire Department,fire_protection_service,True,-101.1719,31.1293,28.5974,Rural,0.0,
+south-central-tx,48265960301,Divide Volunteer Fire Department,fire_protection_service,True,-99.6538,30.0968,28.3117,Rural,0.0,
+south-central-tx,48115950600,Welch Volunteer Fire Department,fire_protection_service,True,-102.1268,32.929,27.2831,Rural,0.0,
+south-central-tx,48299970100,Castell VFD,fire_protection_service,True,-98.9577,30.705,26.6211,Rural,0.0,
+south-central-tx,48177000500,Nixon Fire Dept,central_government_office,True,-97.7663,29.269,26.4926,Rural,0.0,
+south-central-tx,48081950200,Robert Lee Volunteer Fire Department,fire_protection_service,True,-100.4837,31.8951,26.2632,Rural,0.0,
+south-central-tx,48207950300,Paint Creek Volunteer Fire Dept,fire_protection_service,True,-99.5972,33.0798,24.1745,Rural,0.0,
+south-central-tx,48093950300,Comanche Fire Department,fire_protection_service,True,-98.604,31.8991,24.1221,Rural,0.0,
+south-central-tx,48327950300,Hext Volunteer Fire Department,fire_protection_service,True,-99.5045,30.8854,23.9789,Rural,0.0,
+south-central-tx,48417950300,City of Moran Volunteer Fire Department,fire_protection_service,True,-99.1656,32.5461,23.7417,Rural,0.0,
+south-central-tx,48281950100,Fire Report Lometa Volunteer Fire Dept,ambulance_and_ems_services,True,-98.3946,31.2174,23.4111,Rural,0.0,
+south-central-tx,48455950100,Apple Springs VFD,fire_protection_service,True,-94.9863,31.2202,22.8234,Rural,0.0,
+south-central-tx,48089750200,Garwood Volunteer Fire Department,community_services_non_profits,True,-96.3959,29.4503,22.7727,Rural,0.0,
+south-central-tx,48225950600,Kennard Ratcliff Volunteer Fire Department,fire_protection_service,True,-95.2039,31.3452,22.2021,Rural,0.0,
+south-central-tx,48019000200,Tarpley Volunteer Fire Department,fire_protection_service,True,-99.2797,29.6585,21.3664,Rural,0.0,
+south-central-tx,48225950600,"Kennard, TX Vol. Fire Department",central_government_office,True,-95.186,31.3597,20.8611,Rural,0.0,
+south-central-tx,48185180302,Bedias Vol. Fire Dept,fire_protection_service,True,-95.9488,30.7759,20.8164,Rural,0.0,
+south-central-tx,48225950600,Ratcliff Volunteer Fire Department,fire_protection_service,True,-95.1655,31.3729,19.9062,Rural,0.0,
+south-central-tx,48089750100,Eagle Lake Volunteer Fire Department,fire_protection_service,True,-96.3333,29.5895,19.9031,Rural,0.0,
+south-central-tx,48429950500,Caddo Texas VFD,fire_protection_service,True,-98.6671,32.7194,19.4788,Rural,0.0,
+south-central-tx,48035950400,Cranfills Gap Fire Dept.,community_services_non_profits,True,-97.8265,31.7729,19.4698,Rural,0.0,
+south-central-tx,48225950200,Austonio VFD,community_services_non_profits,True,-95.6389,31.1867,19.4557,Rural,0.0,
+south-central-tx,48225950200,Austonio Vol Fire Dept,fire_protection_service,True,-95.6918,31.1947,19.453,Rural,0.0,
+south-central-tx,48001951100,Bethel Cayuga VFD,community_services_non_profits,True,-95.9664,31.9526,19.1377,Rural,0.0,
+south-central-tx,48193950200,Pottsville Volunteer Fire Department,professional_services,True,-98.3233,31.6735,19.0796,Rural,0.0,
+south-central-tx,48237950100,Jack County Rural Fire Department,fire_protection_service,True,-98.2898,33.418,18.907,Rural,0.0,
+south-central-tx,48481740600,Boling Volunteer Fire Department,fire_protection_service,True,-95.9494,29.257,18.8865,Rural,0.0,
+south-central-tx,48171950100,Willow City Volunteer Fire & Rescue,fire_protection_service,True,-98.7039,30.4009,18.8631,Rural,0.0,
+south-central-tx,48469001501,Fordtran Volunteer Fire Department,fire_protection_service,True,-96.9866,29.0674,18.675,Rural,0.0,
+south-central-tx,48019000200,Medina Fire Department,fire_protection_service,True,-99.2457,29.7969,18.4698,Rural,0.0,
+south-central-tx,48161000900,Butler Vfd,medical_service_organizations,True,-95.9056,31.6602,18.4441,Rural,0.0,
+south-central-tx,48057000300,Olivia-Port Alto Fire Department & EMS,central_government_office,True,-96.4508,28.6763,18.4145,Rural,0.0,
+south-central-tx,48455950200,Pennington Volunteer Fire Department,fire_protection_service,True,-95.2351,31.1913,18.2173,Rural,0.0,
+south-central-tx,48289950102,Oakwood-East Leon County VFD,ambulance_and_ems_services,True,-95.8482,31.5873,18.0162,Rural,0.0,
+south-central-tx,48441013501,Lawn Volunteer Fire Department,fire_protection_service,True,-99.7443,32.135,17.9646,Rural,0.0,
+south-central-tx,48391950400,Bayside Volunteer Fire Department,fire_protection_service,True,-97.2162,28.0933,17.3953,Rural,0.0,
+south-central-tx,48391950400,Bayside Vol Fire Department,fire_protection_service,True,-97.215,28.0951,17.313,Rural,0.0,
+south-central-tx,48207950400,Weinert Volunteer Fire Dept,fire_protection_service,True,-99.6752,33.3204,17.1968,Rural,0.0,
+south-central-tx,48307950500,Placid Community Volunteer Fire Department,fire_protection_service,True,-99.1852,31.3233,16.8953,Rural,0.0,
+south-central-tx,48225950700,Lovelady Volunteer Fire Department,fire_protection_service,True,-95.446,31.1268,16.7255,Rural,0.0,
+south-central-tx,48297950100,Three Rivers Volunteer Fire Department,fire_protection_service,True,-98.1786,28.473,16.6652,Rural,0.0,
+south-central-tx,48125950300,Spur Volunteer Fire Department,community_services_non_profits,True,-100.8569,33.4734,16.6232,Rural,0.0,
+south-central-tx,48185180304,Iola VFD,fire_protection_service,True,-96.0756,30.7725,16.3254,Rural,0.0,
+south-central-tx,48009020200,Lake Kickapoo Volunteer Fire,fire_protection_service,True,-98.7819,33.6698,16.3136,Rural,0.0,
+south-central-tx,48013960102,Blackhill Volunteer Fire Department,community_services_non_profits,True,-98.3254,28.9987,16.2791,Rural,0.0,
+south-central-tx,48225950102,Belott Volunteer Fire Department ,community_services_non_profits,True,-95.3345,31.4215,16.1729,Rural,0.0,
+south-central-tx,48355005803,Agua Dulce Volunteer Fire Dept. (Nueces Jim Wells ESD #5),fire_protection_service,True,-97.911,27.7814,16.1289,Rural,0.0,
+south-central-tx,48333950200,Goldthwaite Volunteer Fire Department,fire_protection_service,True,-98.5673,31.4394,16.0968,Rural,0.0,
+south-central-tx,48441013602,Mulberry Canyon Volunteer Fire Department,fire_protection_service,True,-100.1057,32.3461,15.845,Rural,0.0,
+south-central-tx,48049950300,Zephyr Volunteer Fire Department,fire_protection_service,True,-98.7937,31.6743,15.776,Rural,0.0,
+south-central-tx,48307950500,Rochelle Volunteer Fire Department,fire_protection_service,True,-99.209,31.225,15.7163,Rural,0.0,
+south-central-tx,48061010102,Arroyo City Volunteer Fire Department,fire_protection_service,True,-97.4614,26.3232,15.5929,Rural,0.0,
+south-central-tx,48207950300,Haskell Volunteer Fire Department,central_government_office,True,-99.7317,33.1573,15.2798,Rural,0.0,
+south-central-tx,48401951100,Laneville Volunteer Fire Department,fire_protection_service,True,-94.8069,31.9769,15.2499,Rural,0.0,
+south-central-tx,48331950500,Milano Volunteer Fire Department,fire_protection_service,True,-96.8617,30.7106,15.1997,Rural,0.0,
+south-central-tx,48083950600,Burkett Volunteer Fire Department,community_services_non_profits,True,-99.2251,31.9975,15.0485,Rural,0.0,
+south-central-tx,48099010101,Coryell City Osage Volunteer Fire Department,fire_protection_service,True,-97.6002,31.5478,14.8822,Rural,0.0,
+south-central-tx,48237950500,East Jack County Volunteer Fire Department,fire_protection_service,True,-97.9683,33.1681,14.8714,Rural,0.0,
+south-central-tx,48335950400,Westbrook Volunteer Fire Department,fire_protection_service,True,-101.0123,32.3607,14.8664,Rural,0.0,
+south-central-tx,48465950801,Del Rio Fire Department,it_service_and_computer_repair,True,-101.0298,29.4626,14.8443,Urban,0.0,
+south-central-tx,48471790401,Waterwood Volunteer Fire Department #7,community_services_non_profits,True,-95.8022,30.8515,14.8079,Urban,0.0,
+south-central-tx,48019000200,Vanderpool Fire Department,fire_protection_service,True,-99.5578,29.7471,14.7561,Rural,0.0,
+south-central-tx,48147950800,Telephone Fire Department,fire_protection_service,True,-96.1249,33.7631,14.7539,Rural,0.0,
+south-central-tx,48161000200,Fairfield Fire Rescue,fire_protection_service,True,-96.1595,31.7243,14.594,Rural,0.0,
+south-central-tx,48477170602,Washington TX Volunteer Fire Department,fire_protection_service,True,-96.2054,30.3043,14.269,Rural,0.0,
+south-central-tx,48151950400,Rotan Volunteer Fire Department,fire_protection_service,True,-100.4669,32.8503,14.2605,Rural,0.0,
+south-central-tx,48093950102,Promontory Park Volunteer Fire Department,fire_protection_service,True,-98.4992,31.9864,14.1197,Rural,0.0,
+south-central-tx,48367140502,Adell-Whitt Volunteer Fire Department,fire_protection_service,True,-98.0194,32.9565,14.0337,Rural,0.0,
+south-central-tx,48455950300,Friday Volunteer Fire Department,fire_protection_service,True,-95.2624,31.1083,14.029,Rural,0.0,
+south-central-tx,48455950300,"Friday Community Center, Buyers Group & Fire Department",community_services_non_profits,True,-95.2624,31.1083,14.029,Rural,0.0,
+south-central-tx,48139061000,Milford Volunteer Fire Department,fire_protection_service,True,-96.9453,32.124,13.854,Rural,0.0,
+south-central-tx,48093950400,Proctor Volunteer Fire Department,fire_protection_service,True,-98.4306,31.9866,13.7869,Rural,0.0,
+south-central-tx,48497150405,Sand Flat Volunteer Fire Department,fire_protection_service,True,-97.8878,33.2715,13.7633,Rural,0.0,
+south-central-tx,48489950600,Santa Monica Volunteer Fire,fire_protection_service,True,-97.5912,26.3604,13.6941,Rural,0.0,
+south-central-tx,48035950100,Vfd Brazos Point/Eulogy,business_manufacturing_and_supply,True,-97.6206,32.187,13.594,Rural,0.0,
+south-central-tx,48035950100,Brazos Point Fire department,central_government_office,True,-97.6207,32.187,13.5884,Rural,0.0,
+south-central-tx,48015760502,Bellville Volunteer Fire Department,fire_protection_service,True,-96.2632,29.9521,13.5446,Rural,0.0,
+south-central-tx,48181001901,Gunter Volunteer Fire & Rescue,fire_protection_service,True,-96.7477,33.4486,13.5158,Rural,0.0,
+south-central-tx,48367140603,Horseshoe Bend Volunteer Fire Department,physical_therapy,True,-97.8772,32.5833,12.9106,Rural,0.0,
+south-central-tx,48143950100,Morgan Mill Vol. Fire Department,fire_protection_service,True,-98.1672,32.3811,12.8838,Rural,0.0,
+south-central-tx,48401951100,Laneville Fire Department,fire_protection_service,True,-94.8366,31.9818,12.7671,Rural,0.0,
+south-central-tx,48293970100,Prairie Hill Volunteer Fire Department,fire_protection_service,True,-96.796,31.6512,12.6198,Rural,0.0,
+south-central-tx,48481741100,Louise Volunteer Fire Department,fire_protection_service,True,-96.4095,29.1086,12.5348,Rural,0.0,
+south-central-tx,48025950600,Skidmore Volunteer Fire Department,fire_protection_service,True,-97.6822,28.258,12.3114,Rural,0.0,
+south-central-tx,48123970500,Nordheim Volunteer Fire Department,fire_protection_service,True,-97.6103,28.9222,12.2801,Rural,0.0,
+south-central-tx,48057000401,Magnolia Beach Volunteer Fire Dept,fire_protection_service,True,-96.5235,28.5529,12.2438,Rural,0.0,
+south-central-tx,48161000400,Kirvin Volunteer Fire Department,community_services_non_profits,True,-96.3305,31.7678,12.2253,Rural,0.0,
+south-central-tx,48395960300,Seale Round Prairie VFD,fire_protection_service,True,-96.3667,31.2975,11.8857,Rural,0.0,
+south-central-tx,48491020206,WC ESD 7: Andice - Florence Fire Department,fire_protection_service,True,-97.8514,30.7782,11.8835,Rural,0.0,
+south-central-tx,48175960100,Schroeder Volunteer Fire Department,fire_protection_service,True,-97.2149,28.8146,11.8304,Rural,0.0,
+south-central-tx,48289950302,Leona Volunteer Fire Department,community_services_non_profits,True,-95.9584,31.1528,11.7638,Rural,0.0,
+south-central-tx,48451001702,Grape Creek Volunteer Fire Department,fire_protection_service,True,-100.5493,31.5811,11.6901,Rural,0.0,
+south-central-tx,48255970100,Falls City Fire Dept,fire_protection_service,True,-98.019,28.9824,11.5537,Rural,0.0,
+south-central-tx,48097000900,Era Volunteer Fire Department,community_services_non_profits,True,-97.2884,33.4958,11.4278,Rural,0.0,
+south-central-tx,48145000200,Golinda Fire Dept,fire_protection_service,True,-97.0811,31.3721,11.3191,Rural,0.0,
+south-central-tx,48499950402,City Of Alba Volunteer Fire Department,community_services_non_profits,True,-95.6339,32.7924,11.2608,Rural,0.0,
+south-central-tx,48409011100,Odem Volunteer Fire Department,fire_protection_service,True,-97.5837,27.9497,11.1579,Rural,0.0,
+south-central-tx,48293970600,Lake Mexia Volunteer Fire Department,fire_protection_service,True,-96.5984,31.6526,11.1455,Rural,0.0,
+south-central-tx,48449950200,Five Star Volunteer Fire Department,fire_protection_service,True,-95.0475,33.2334,11.1362,Rural,0.0,
+south-central-tx,48449950100,Sugar Hill VFD,ambulance_and_ems_services,True,-94.9447,33.3464,11.1345,Rural,0.0,
+south-central-tx,48459950102,Diana Volunteer Fire Department,fire_protection_service,True,-94.7725,32.7097,11.1154,Rural,0.0,
+south-central-tx,48177000100,Ottine Volunteer Fire Department,medical_service_organizations,True,-97.5843,29.5992,11.014,Rural,0.0,
+south-central-tx,48297950400,Lagarto Volunteer Fire Department,fire_protection_service,True,-97.9306,28.1243,11.0103,Rural,0.0,
+south-central-tx,48053960802,Spicewood Fire Rescue,fire_protection_service,True,-98.1564,30.4581,11.0089,Rural,0.0,
+south-central-tx,48077030302,Bluegrove VFD,fire_protection_service,True,-98.2299,33.6737,10.9973,Rural,0.0,
+south-central-tx,48149970200,Winchester Area VFD,fire_protection_service,True,-97.0145,30.0094,10.8786,Rural,0.0,
+south-central-tx,48251130603,Rio Vista Fire Department,fire_protection_service,True,-97.3772,32.2323,10.865,Rural,0.0,
+south-central-tx,48025950600,Tynan Volunteer Fire Department,fire_protection_service,True,-97.7564,28.1689,10.8591,Rural,0.0,
+south-central-tx,48309003602,Riesel Vol Fire Dept,fire_protection_service,True,-96.9187,31.4767,10.8169,Rural,0.0,
+south-central-tx,48051970501,Birch Creek Are Volunteer Fire Department,fire_protection_service,True,-96.6365,30.3166,10.7399,Rural,0.0,
+south-central-tx,48097000100,Callisburg Volunteer Fire Department,fire_protection_service,True,-97.0113,33.6996,10.6761,Rural,0.0,
+south-central-tx,48497150402,Runaway Bay Fire Department,fire_protection_service,True,-97.866,33.1727,10.5496,Rural,0.0,
+south-central-tx,48035950600,West Shore Volunteer Fire Department,fire_protection_service,True,-97.3927,31.8601,10.5211,Rural,0.0,
+south-central-tx,48297950400,Lagarto Volunteer Fire Department,community_services_non_profits,True,-97.9245,28.1261,10.5161,Rural,0.0,
+south-central-tx,48223950200,Cumby Fire Department,fire_protection_service,True,-95.8396,33.1374,10.5023,Rural,0.0,
+south-central-tx,48039661700,Luverpool Fire Station,real_estate_service,True,-95.2777,29.2957,10.414,Rural,0.0,
+south-central-tx,48363000300,Palo Pinto Volunteer Fire Department,fire_protection_service,True,-98.3003,32.7674,10.3977,Rural,0.0,
+south-central-tx,48143950700,Selden Volunteer Fire Department,fire_protection_service,True,-98.116,32.1425,10.3655,Rural,0.0,
+south-central-tx,48259970500,Boerne Fire Department,fire_protection_service,True,-98.7358,29.8004,10.3285,Urban,0.0,
+south-central-tx,48467950601,Myrtle Springs Volunteer Fire Department,fire_protection_service,True,-95.9336,32.6124,10.2959,Rural,0.0,
+south-central-tx,48223950100,Dike Volunteer Fire Dept,fire_protection_service,True,-95.4814,33.2355,10.2734,Rural,0.0,
+south-central-tx,48347950200,Lilbert-Looneyville Volunteer Fire Department,fire_protection_service,True,-94.9005,31.7364,10.1943,Rural,0.0,
+south-central-tx,48001951002,Elkhart Volunteer Fire Department,fire_protection_service,True,-95.5699,31.63,10.1216,Rural,0.0,
+south-central-tx,48497150405,Chico Community Volunteer Fire Department,fire_protection_service,True,-97.7975,33.2953,10.1069,Rural,0.0,
+south-central-tx,48121020117,Aubrey Fire Department,fire_protection_service,True,-96.9855,33.3034,10.082,Urban,0.0,
+south-central-tx,48477170602,Washington TX Volunteer Fire Dept,fire_protection_service,True,-96.1796,30.3423,10.0811,Rural,0.0,
+south-central-tx,48089750200,Rock Island Volunteer Fire Department,auto_glass_service,True,-96.5771,29.5282,9.8911,Rural,0.0,
+south-central-tx,48055960600,Southeast Caldwell County Volunteer Fire Department ,fire_protection_service,True,-97.5726,29.7374,9.8361,Rural,0.0,
+south-central-tx,48291700400,Tarkington Volunteer Fire Department,fire_protection_service,True,-94.9897,30.312,9.8187,Rural,0.0,
+south-central-tx,48407200202,Camilla Volunteer Fire Department,fire_protection_service,True,-95.0532,30.6069,9.7781,Rural,0.0,
+south-central-tx,48051970400,Beaver Creek Volunteer Fire Department- Burleson County Texas,fire_protection_service,True,-96.5576,30.4541,9.7314,Rural,0.0,
+south-central-tx,48055960600,McMahan VFD,fire_protection_service,True,-97.5185,29.8487,9.7045,Rural,0.0,
+south-central-tx,48379950200,Point Volunteer Fire Department,fire_protection_service,True,-95.8689,32.8386,9.6772,Rural,0.0,
+south-central-tx,48175960100,Fannin Volunteer Fire Department,fire_protection_service,True,-97.2363,28.6953,9.668,Rural,0.0,
+south-central-tx,48217961100,"""Abbott VFD""",community_services_non_profits,True,-97.0723,31.8853,9.6369,Rural,0.0,
+south-central-tx,48147950600,Randolph Volunteer Fire Department,fire_protection_service,True,-96.2539,33.4846,9.6312,Rural,0.0,
+south-central-tx,48213950400,Hcesd11 Fire Department,fire_protection_service,True,-95.9043,32.1198,9.5893,Rural,0.0,
+south-central-tx,48215022801,Progreso Volunteer Fire Department,central_government_office,True,-97.9498,26.0676,9.5702,Urban,0.0,
+south-central-tx,48309004202,Ross Volunteer Fire Department,community_services_non_profits,True,-97.1201,31.718,9.5395,Rural,0.0,
+south-central-tx,48147950500,Dodd City Fire Department,public_service_and_government,True,-96.0758,33.5745,9.3422,Rural,0.0,
+south-central-tx,48147950500,Dodd City Volunteer Fire Dept.,fire_protection_service,True,-96.0761,33.5742,9.3212,Rural,0.0,
+south-central-tx,48249950202,Ben Bolt Volunteer Fire Department,fire_protection_service,True,-98.0931,27.6625,9.2375,Rural,0.0,
+south-central-tx,48147950500,Ladonia Fire Department,fire_protection_service,True,-95.9455,33.4263,9.2361,Rural,0.0,
+south-central-tx,48349971000,Dawson Volunteer Fire Department,fire_protection_service,True,-96.715,31.8936,9.1964,Rural,0.0,
+south-central-tx,48363000300,Santo Volunteer Fire & EMS,fire_protection_service,True,-98.1944,32.6094,9.1619,Rural,0.0,
+south-central-tx,48331950300,Black Jack Volunteer Fire Department,fire_protection_service,True,-96.9484,30.5698,9.0959,Rural,0.0,
+south-central-tx,48449950400,Nortex Volunteer Fire Department,ambulance_and_ems_services,True,-94.8806,33.1229,8.9997,Rural,0.0,
+south-central-tx,48373210205,Scenic Loop Volunteer Fire Department,fire_protection_service,True,-95.1005,30.7234,8.9219,Rural,0.0,
+south-central-tx,48373210204,Goodrich Volunteer Fire Department,fire_protection_service,True,-94.9471,30.607,8.897,Rural,0.0,
+south-central-tx,48021950805,812 Volunteer Fire Department,fire_protection_service,True,-97.5425,30.0247,8.8333,Rural,0.0,
+south-central-tx,48321730700,Tres Palacios Oaks Volunteer Fire Department,ambulance_and_ems_services,True,-96.145,28.829,8.8137,Rural,0.0,
+south-central-tx,48471790103,Good Times VFD,fire_protection_service,True,-95.4596,30.789,8.7551,Rural,0.0,
+south-central-tx,48073950100,Reklaw Volunteer Fire Department,fire_protection_service,True,-94.9894,31.8653,8.7471,Rural,0.0,
+south-central-tx,48013960401,Leming Fire Department,fire_protection_service,True,-98.4913,29.0685,8.652,Rural,0.0,
+south-central-tx,48477170100,Meyersville Volunteer Fire Department,fire_protection_service,True,-96.3098,30.2172,8.5082,Urban,0.0,
+south-central-tx,48449950400,Cookville VFD,fire_protection_service,True,-94.8623,33.1846,8.4704,Rural,0.0,
+south-central-tx,48213950202,Brownsboro Fire Rescue,ambulance_and_ems_services,True,-95.6294,32.3011,8.4673,Rural,0.0,
+south-central-tx,48477170501,Rocky Creek Fire Department,fire_protection_service,True,-96.571,30.2792,8.375,Rural,0.0,
+south-central-tx,48451001708,"Pecan Creek Volunteer Fire Department, Texas",fire_protection_service,True,-100.4524,31.3055,8.301,Urban,0.0,
+south-central-tx,48277000102,Chicota VFD,community_services_non_profits,True,-95.5894,33.8637,8.2887,Rural,0.0,
+south-central-tx,48217961100,Mertens Fire Department,fire_protection_service,True,-96.8925,32.0596,8.2555,Rural,0.0,
+south-central-tx,48213950400,Southside Henderson County Volunteer Fire Department,fire_protection_service,True,-95.8965,32.131,8.1482,Rural,0.0,
+south-central-tx,48451001708,Pecan Creek VFD,fire_protection_service,True,-100.4531,31.307,8.1244,Urban,0.0,
+south-central-tx,48049950202,Lake Bridge VFD Community Center,community_services_non_profits,True,-99.0972,31.8312,7.9524,Rural,0.0,
+south-central-tx,48441013502,Jim Ned Volunteer Fire Department,fire_protection_service,True,-99.8052,32.2113,7.9219,Rural,0.0,
+south-central-tx,48049950202,Lake Brownwood Volunteer Fire Department,fire_protection_service,True,-99.0967,31.8322,7.897,Rural,0.0,
+south-central-tx,48041000103,Edge Fire Station,gym,True,-96.2984,30.8865,7.8865,Rural,0.0,
+south-central-tx,48209010810,Wimberley Fire Department,fire_protection_service,True,-98.1062,30.0019,7.8807,Rural,0.0,
+south-central-tx,48009020300,Scotland Volunteer Fire Department,fire_protection_service,True,-98.4723,33.6562,7.861,Rural,0.0,
+south-central-tx,48039663000,Brazoria Fire Department,fire_protection_service,True,-95.568,29.0359,7.8305,Rural,0.0,
+south-central-tx,48349970302,Barry VFD,community_services_non_profits,True,-96.6363,32.0995,7.7118,Urban,0.0,
+south-central-tx,48149970700,Ellinger Volunteer Fire Department ,community_services_non_profits,True,-96.7058,29.8394,7.641,Rural,0.0,
+south-central-tx,48473680601,Tri-County Volunteer Fire Department,professional_services,True,-95.8278,30.1088,7.6384,Rural,0.0,
+south-central-tx,48349970100,Rice Volunteer Fire Department,non_governmental_association,True,-96.4924,32.2418,7.626,Rural,0.0,
+south-central-tx,48349970302,Barry Volunteer Fire Department,fire_protection_service,True,-96.6374,32.0992,7.6048,Urban,0.0,
+south-central-tx,48025950600,Papalote Volunteer Fire Department,fire_protection_service,True,-97.6525,28.2243,7.5931,Rural,0.0,
+south-central-tx,48251130100,Bono VFD - Station 70,fire_protection_service,True,-97.4949,32.3144,7.5158,Rural,0.0,
+south-central-tx,48223950302,Brinker Volunteer Fire Rescue,fire_protection_service,True,-95.4918,33.1266,7.463,Rural,0.0,
+south-central-tx,48213950700,Seven Points Volunteer Fire Department - Substation,fire_protection_service,True,-96.1973,32.3405,7.3086,Rural,0.0,
+south-central-tx,48139061200,Avalon Volunteer Fire Department,printing_services,True,-96.792,32.2044,7.1936,Rural,0.0,
+south-central-tx,48029141900,Lone Oak Vol Fire Department,fire_protection_service,True,-98.2516,29.3669,7.1471,Rural,0.0,
+south-central-tx,48459950200,Bettie Volunteer Fire Department,fire_protection_service,True,-94.9502,32.8087,7.0527,Rural,0.0,
+south-central-tx,48277000101,Lamar Point Caviness Emberson Volunteer Fire Department,fire_protection_service,True,-95.6129,33.7586,7.0415,Rural,0.0,
+south-central-tx,48039662900,Brazoria Fire Department,fire_protection_service,True,-95.5702,29.0461,6.9895,Rural,0.0,
+south-central-tx,48277000102,Lamar Point-Emberson-Caviness VFD,fire_protection_service,True,-95.641,33.7606,6.6955,Rural,0.0,
+south-central-tx,48035950300,Steele Creek Acres VFD,fire_protection_service,True,-97.4444,31.9816,6.6039,Rural,0.0,
+south-central-tx,48063950102,Rocky Mound Volunteer Fire,town_hall,True,-95.0237,33.0218,6.5933,Rural,0.0,
+south-central-tx,48035950300,Steele Creek Acres Volunteer Fire Department,fire_protection_service,True,-97.4444,31.9815,6.5926,Rural,0.0,
+south-central-tx,48453037500,North Lake Travis Fire Rescue,fire_protection_service,True,-97.922,30.4926,6.5578,Urban,0.0,
+south-central-tx,48407200201,Coldspring Volunteer Fire Department,fire_protection_service,True,-95.128,30.594,6.4928,Rural,0.0,
+south-central-tx,48035950300,Lakeside Village Fire Department,fire_protection_service,True,-97.4903,32.014,6.4154,Rural,0.0,
+south-central-tx,48309003402,Elm Mott Volunteer Fire & Rescue,fire_protection_service,True,-97.1012,31.681,6.3587,Rural,0.0,
+south-central-tx,48215024600,La Villa Volunteer Fire Department,youth_organizations,True,-97.9289,26.2956,6.3378,Rural,0.0,
+south-central-tx,48497150405,Lake Bridgeport Fire Department,fire_protection_service,True,-97.8271,33.2016,6.2262,Rural,0.0,
+south-central-tx,48221160215,Hood County Station 70 VFD,community_services_non_profits,True,-97.844,32.4888,6.1118,Rural,0.0,
+south-central-tx,48325000104,Mico Volunteer Fire Department,fire_protection_service,True,-98.9231,29.5449,6.0886,Rural,0.0,
+south-central-tx,48367140603,Tin Top Volunteer Fire Department,central_government_office,True,-97.8032,32.6123,6.0141,Rural,0.0,
+south-central-tx,48379950200,East Tawakoni Volunteer Fire Department,fire_protection_service,True,-95.9613,32.9077,5.986,Rural,0.0,
+south-central-tx,48029152100,Atascosa-Bexar County Line Volunteer Fire Department,fire_protection_service,True,-98.4973,29.1478,5.9168,Rural,0.0,
+south-central-tx,48201555600,Rosehill Fire Department,health_and_medical,False,-95.7178,30.0804,5.8963,Rural,0.0,
+south-central-tx,48469001607,Victoria County Volunteer Fire Department ,printing_services,True,-96.9236,28.847,5.6641,Rural,0.0,
+south-central-tx,48201556000,Tri-County FIRE Department,central_government_office,True,-95.9459,30.1437,5.5606,Rural,0.0,
+south-central-tx,48299970300,Sunrise Beach Volunteer Fire Department,fire_protection_service,True,-98.4245,30.5887,5.2767,Rural,0.0,
+south-central-tx,48047950100,Southern Brooks Volunteer Fire Dept.,fire_protection_service,True,-98.135,26.8897,5.2615,Rural,0.0,
+south-central-tx,48427950101,San Isidro Fire Department.,fire_protection_service,True,-98.4529,26.7159,5.1525,Rural,0.0,
+south-central-tx,48339690207,Magnolia Volunteer Fire Department Station 184,fire_protection_service,True,-95.6579,30.1338,5.1358,Urban,0.0,
+south-central-tx,48349970701,Angus City Hall and Fire Station,town_hall,True,-96.4338,32.0066,5.0498,Rural,0.0,
+south-central-tx,48367140601,Greenwood Fire Station,real_estate_service,True,-97.8643,32.7514,4.9696,Rural,0.0,
+south-central-tx,48401950502,Crims Chapel Volunteer Fire Department,fire_protection_service,True,-94.8031,32.2689,4.8769,Rural,0.0,
+south-central-tx,48467950902,Van Zandt Midway Volunteer Fire Department,fire_protection_service,True,-95.5504,32.3916,4.8508,Rural,0.0,
+south-central-tx,48213951401,Berryville Volunteer Fire Department,fire_protection_service,True,-95.4741,32.0852,4.7443,Rural,0.0,
+south-central-tx,48367140601,Greenwood Rural VFD,fire_protection_service,True,-97.8611,32.7513,4.6927,Rural,0.0,
+south-central-tx,48339692301,Montgomery County Emergency Services District 6 Porter Fire Department Station 122,fire_protection_service,True,-95.3111,30.1584,4.6629,Rural,0.0,
+south-central-tx,48029121905,Bexar-Bulverde Volunteer Fire Department,fire_protection_service,True,-98.4319,29.6556,4.6627,Urban,0.0,
+south-central-tx,48309003402,CBluff VFD,fire_protection_service,True,-97.1421,31.6484,4.6284,Rural,0.0,
+south-central-tx,48157675401,Rosenberg Fire Department,central_government_office,True,-95.808,29.5175,4.4392,Urban,0.0,
+south-central-tx,48479001818,El Cenizo Volunteer Fire Department,fire_protection_service,True,-99.4996,27.3324,4.3994,Rural,0.0,
+south-central-tx,48181000901,"Denison Fire Department, Station 3",central_government_office,False,-96.5686,33.7233,4.3588,Urban,0.0,
+south-central-tx,48355002900,Flight Line Fire Station NAS Corpus Christi,fire_protection_service,True,-97.284,27.6956,4.2863,Urban,0.0,
+south-central-tx,48139060216,Ovilla Fire Department,police_department,True,-96.8893,32.5281,4.1196,Urban,0.0,
+south-central-tx,48479001715,Fire Station No. 9,fire_protection_service,True,-99.5165,27.6001,4.0646,Urban,0.0,
+south-central-tx,48201241105,Spring Fire Department St73,public_service_and_government,True,-95.356,30.0404,4.0508,Urban,0.0,
+south-central-tx,48453037100,Manchaca Volunteer Fire Department Station 3,fire_protection_service,True,-97.8602,30.1566,4.0202,Urban,0.0,
+south-central-tx,48201331501,Houston Fire Department - Station 55 - The Double Nickel,fire_protection_service,True,-95.3563,29.6376,3.9631,Urban,0.0,
+south-central-tx,48215021309,Pharr Fire Department Station 4,fire_protection_service,True,-98.2104,26.0938,3.8501,Urban,0.0,
+south-central-tx,48113018501,Garland Fire Department Station 2,fire_protection_service,True,-96.6665,32.8872,3.7684,Urban,0.0,
+south-central-tx,48167720900,Dickinson Volunteer Fire Department Station 1,fire_protection_service,True,-95.0488,29.4618,3.675,Urban,0.0,
+south-central-tx,48121021412,Lake Cities Fire Department Station 2,fire_protection_service,True,-97.0663,33.1628,3.6593,Urban,0.0,
+south-central-tx,48029162003,Bexar County District 5 Fire Department,fire_protection_service,True,-98.6414,29.2259,3.6535,Rural,0.0,
+south-central-tx,48039660501,Pearland Volunteer Fire Department Station 4,fire_protection_service,True,-95.3493,29.5616,3.622,Urban,0.0,
+south-central-tx,48113018158,Sunnyvale Fire Department,fire_protection_service,True,-96.5442,32.7807,3.5909,Urban,0.0,
+south-central-tx,48061014300,Brownsville Fire Department Station 5,fire_protection_service,True,-97.4325,25.9062,3.4089,Urban,0.0,
+south-central-tx,48201241202,Spring Volunteer Fire Department Station 74,fire_protection_service,True,-95.3951,30.0544,3.3455,Urban,0.0,
+south-central-tx,48479001720,Laredo Fire Department Station 8,fire_protection_service,True,-99.4817,27.5718,3.3234,Urban,0.0,
+south-central-tx,48007950400,Wildwood Volunteer Fire Department,fire_protection_service,True,-97.089,28.0244,3.2204,Urban,0.0,
+south-central-tx,48029192200,City Of San Antonio Police Fire Department 911 Call Center,ambulance_and_ems_services,True,-98.443,29.3409,3.2057,Urban,0.0,
+south-central-tx,48139060206,Red Oak Fire Department,fire_protection_service,True,-96.8045,32.5306,3.2054,Urban,0.0,
+south-central-tx,48091310405,New Braunfels Fire Department Station 5,fire_protection_service,True,-98.1216,29.67,3.1972,Urban,0.0,
+south-central-tx,48201430500,Village Fire Department,fire_protection_service,True,-95.5143,29.7809,3.1071,Urban,0.0,
+south-central-tx,48337950401,Bowie Rural Fire Department,fire_protection_service,True,-97.8764,33.5456,3.0249,Rural,0.0,
+south-central-tx,48215024502,Edcouch Volunteer Fire Department,fire_protection_service,True,-97.9619,26.2941,3.0205,Urban,0.0,
+south-central-tx,48439113635,Grapevine Fire Department Station 3,fire_protection_service,True,-97.1133,32.9104,2.8789,Urban,0.0,
+south-central-tx,48355002703,Fire Station 11,fire_protection_service,True,-97.3619,27.716,2.8617,Urban,0.0,
+south-central-tx,48439110500,River Oaks Fire Department,fire_protection_service,True,-97.3934,32.7788,2.8358,Urban,0.0,
+south-central-tx,48121021728,Lewisville Fire Department Station 3,public_service_and_government,True,-97.0013,33.0045,2.7835,Urban,0.0,
+south-central-tx,48027022600,Killeen Fire Department - Official,central_government_office,True,-97.719,31.1127,2.7783,Urban,0.0,
+south-central-tx,48453033600,Lake Travis Fire Rescue,fire_protection_service,True,-97.9788,30.3591,2.6932,Urban,0.0,
+south-central-tx,48215023804,Linn San Manuel Fire Department,fire_protection_service,True,-98.1737,26.2522,2.6527,Urban,0.0,
+south-central-tx,48061013004,Brownsville Fire Station 4,public_service_and_government,True,-97.4989,25.9292,2.6403,Urban,0.0,
+south-central-tx,48439104702,Fort Worth Fire Department Station 17,fire_protection_service,True,-97.3234,32.6768,2.6363,Urban,0.0,
+south-central-tx,48027022501,Killeen central fire station,arts_and_entertainment,True,-97.7191,31.1086,2.6194,Urban,0.0,
+south-central-tx,48439121615,Arlington Fire Department Station 4,central_government_office,True,-97.1362,32.7508,2.4957,Urban,0.0,
+south-central-tx,48029120502,San Antonio Fire Department Station 24,fire_protection_service,True,-98.4194,29.501,2.4924,Urban,0.0,
+south-central-tx,48401950300,Kilgore Fire Department,fire_protection_service,True,-94.869,32.3684,2.4924,Urban,0.0,
+south-central-tx,48439113410,Hurst Fire Department,fire_protection_service,True,-97.1893,32.8233,2.4749,Urban,0.0,
+south-central-tx,48439113410,Fire Station 2,park,True,-97.1893,32.8231,2.4557,Urban,0.0,
+south-central-tx,48113006200,Station 33 Dallas Fire Rescue,fire_protection_service,True,-96.8365,32.7198,2.4402,Urban,0.0,
+south-central-tx,48439110600,Westworth Village Fire Dept,health_and_medical,False,-97.4107,32.7628,2.434,Urban,0.0,
+south-central-tx,48157670801,Fresno Fire Department,fire_protection_service,True,-95.4561,29.5194,2.3811,Urban,0.0,
+south-central-tx,48309003902,McGregor Volunteer Fire Department,fire_protection_service,True,-97.4069,31.4392,2.37,Urban,0.0,
+south-central-tx,48439114003,Saginaw Fire Department Station 2,fire_protection_service,True,-97.352,32.8757,2.3316,Urban,0.0,
+south-central-tx,48303010700,Ransom Canyon Volunteer Fire Department,fire_protection_service,True,-101.6854,33.5362,2.3134,Rural,0.0,
+south-central-tx,48439104702,Fort Worth Fire Department - Administration,central_government_office,False,-97.3282,32.6764,2.3006,Urban,0.0,
+south-central-tx,48299970401,Sandy Harbor VFD,fire_protection_service,True,-98.4296,30.5575,2.2922,Urban,0.0,
+south-central-tx,48097000600,Gainesville Fire Department Station 2,fire_protection_service,True,-97.1319,33.6256,2.2774,Urban,0.0,
+south-central-tx,48439113005,Arlington Fire Department Station 5,public_service_and_government,True,-97.0548,32.7495,2.1427,Urban,0.0,
+south-central-tx,48007950101,Holiday Beach Volunteer Fire Department,fire_protection_service,True,-96.9979,28.1693,2.1378,Urban,0.0,
+south-central-tx,48201342802,Deer Park Vol. Fire Department,fire_protection_service,True,-95.0993,29.6956,2.1226,Urban,0.0,
+south-central-tx,48097001100,Gainesville Fire Department Station 3,fire_protection_service,True,-97.1448,33.623,2.1128,Urban,0.0,
+south-central-tx,48215023103,Ice cream fire station,ice_cream_shop,True,-97.9545,26.1734,2.0693,Urban,0.0,
+south-central-tx,48201410401,Houston fire department,public_service_and_government,False,-95.4023,29.7523,1.9609,Urban,0.0,
+south-central-tx,48187210608,Lake Dunlap Volunteer Fire Department,fire_protection_service,True,-98.0751,29.675,1.9532,Urban,0.0,
+south-central-tx,48121021732,Lewisville Fire Department Station 3,fire_protection_service,True,-96.9936,33.0122,1.9168,Urban,0.0,
+south-central-tx,48041002009,Fire Department Assistance - Texas A&M Forest Service,central_government_office,True,-96.2436,30.5519,1.8347,Urban,0.0,
+south-central-tx,48491020349,City of Cedar Park Cedar Park Fire Department,park,True,-97.8213,30.5195,1.7682,Urban,0.0,
+south-central-tx,48113019036,Richardson Fire Department Station 4,fire_protection_service,True,-96.6994,32.9681,1.726,Urban,0.0,
+south-central-tx,48123970202,Thomaston Volunteer Fire Department ,printing_services,True,-97.3065,29.0913,1.7101,Urban,0.0,
+south-central-tx,48157670500,Missouri City Fire Department,fire_protection_service,True,-95.5266,29.6062,1.6877,Urban,0.0,
+south-central-tx,48113016634,Desoto Fire Station 261,,True,-96.8475,32.619,1.6858,Urban,0.0,
+south-central-tx,48061013700,Fire Station 2,gas_station,True,-97.5121,25.9119,1.6768,Urban,0.0,
+south-central-tx,48491020711,Round Rock Fire Department Station 4,fire_protection_service,True,-97.6293,30.497,1.6663,Urban,0.0,
+south-central-tx,48453000308,Fire Department Maintenance,ambulance_and_ems_services,True,-97.6929,30.3011,1.6038,Urban,0.0,
+south-central-tx,48113016418,Grand Prairie Fire Department,public_service_and_government,False,-97.0288,32.7044,1.5927,Urban,0.0,
+south-central-tx,48201511302,The Historic Heights Fire Station,party_and_event_planning,True,-95.3986,29.7927,1.5894,Urban,0.0,
+south-central-tx,48201511302,Heights Fire Department,fire_protection_service,True,-95.3985,29.7928,1.5669,Urban,0.0,
+south-central-tx,48201552801,Columbia Falls Rural Fire District,central_government_office,True,-95.5345,29.9823,1.5232,Urban,0.0,
+south-central-tx,48449950800,Mount Pleasant TX Fire Department and Emergency Management,fire_protection_service,True,-94.9592,33.1473,1.5099,Urban,0.0,
+south-central-tx,48201342500,Deer Park Volunteer Fire Dept,public_service_and_government,True,-95.1242,29.6995,1.4885,Urban,0.0,
+south-central-tx,48201342500,Deer Park Fire Station 1,fire_protection_service,True,-95.1242,29.6996,1.4821,Urban,0.0,
+south-central-tx,48113016522,Fire Dept of Cedar Hill,fire_protection_service,True,-96.9511,32.5931,1.4032,Urban,0.0,
+south-central-tx,48439104100,Fire Station Community Center,community_center,True,-97.3332,32.7269,1.3917,Urban,0.0,
+south-central-tx,48029171913,Northwest Fire Rescue,health_and_medical,False,-98.6696,29.4203,1.3623,Urban,0.0,
+south-central-tx,48145000300,Marlin Fire Department Station 2,fire_protection_service,True,-96.8826,31.3066,1.2829,Urban,0.0,
+south-central-tx,48499950200,Winnsboro Police and Fire Department,police_department,True,-95.2915,32.9532,1.2624,Rural,0.0,
+south-central-tx,48201222502,Houston Fire Department Station 74 Emergency Medical Services,fire_protection_service,True,-95.3915,29.9316,1.212,Urban,0.0,
+south-central-tx,48113018133,Rowlett Fire Rescue Administration,central_government_office,True,-96.5696,32.9029,1.1364,Urban,0.0,
+south-central-tx,48113016632,Desoto Fire Rescue Station 262,fire_protection_service,True,-96.858,32.5889,1.136,Urban,0.0,
+south-central-tx,48201540904,Cy-fair Volunteer Fire Department Station 9,fire_protection_service,True,-95.6395,29.8925,1.1086,Urban,0.0,
+south-central-tx,48309000100,Waco Fire Station,fire_protection_service,True,-97.1237,31.5568,1.0991,Urban,0.0,
+south-central-tx,48499950800,Miss Mineola Fire Department Rodeo,rodeo,True,-95.4912,32.6846,1.0716,Urban,0.0,
+south-central-tx,48113014316,Irving Fire Department,central_government_office,True,-96.9663,32.8471,1.014,Urban,0.0,
+south-central-tx,48039663800,Richwood Police & Fire Department,organization,False,-95.4049,29.0212,1.008,Urban,0.0,
+south-central-tx,48439110805,Lockheed Martin Fire Department,fire_protection_service,True,-97.4946,32.7529,0.9682,Urban,0.0,
+south-central-tx,48321730503,Camelot Fire Dept,fire_protection_service,True,-95.671,28.8308,0.9274,Rural,0.0,
+south-central-tx,48053960701,Marble Falls Area Volunteer Fire Department,fire_protection_service,True,-98.2889,30.5819,0.8875,Urban,0.0,
+south-central-tx,48473680202,Brookshire Volunteer Fire Department,fire_protection_service,True,-95.9527,29.7814,0.8806,Rural,0.0,
+south-central-tx,48113003103,City Of Dallas/dallas Fire Department,health_and_medical,False,-96.7935,32.7817,0.8689,Urban,0.0,
+south-central-tx,48339694105,North Montgomery County Fire Department,central_government_office,True,-95.4801,30.4266,0.8312,Urban,0.0,
+south-central-tx,48061012305,Town Of South Padre Island Fire Department,fire_protection_service,True,-97.1707,26.1182,0.8212,Urban,0.0,
+south-central-tx,48331950800,Thorndale Volunteer Firemans Recreational Hall,sports_and_recreation_venue,True,-97.2025,30.6204,0.777,Rural,0.0,
+south-central-tx,48367140709,PCESD1 Annetta Fire Station 37,fire_protection_service,True,-97.6468,32.6699,0.6793,Rural,0.0,
+south-central-tx,48395960501,Hearne Fire Department,police_department,True,-96.5971,30.8802,0.6683,Rural,0.0,
+south-central-tx,48383950100,Big Lake Fire Department,fire_protection_service,True,-101.4609,31.1922,0.6507,Rural,0.0,
+south-central-tx,48441013200,Tye Fire Department,home_security,True,-99.8618,32.4578,0.6363,Rural,0.0,
+south-central-tx,48201553500,Ponderosa Volunteer Fire Department Station 2,fire_protection_service,True,-95.4753,30.0425,0.623,Urban,0.0,
+south-central-tx,48467950902,Wheeler Ben Fire Department,fire_protection_service,True,-95.6979,32.4471,0.6076,Rural,0.0,
+south-central-tx,48113017102,Dallas County Fire Rescue,fire_protection_service,True,-96.6048,32.6752,0.6029,Urban,0.0,
+south-central-tx,48489950500,Lyford Fire Department,ambulance_and_ems_services,True,-97.7843,26.4099,0.5849,Urban,0.0,
+south-central-tx,48395960501,Hearne Volunteer Fire Department,fire_protection_service,True,-96.5965,30.8794,0.5625,Rural,0.0,
+south-central-tx,48121021421,Lake Cities Fire Department,professional_services,True,-97.0476,33.1354,0.5599,Urban,0.0,
+south-central-tx,48027020201,Morgan's Point Resort Volunteer Fire Department,fire_protection_service,True,-97.4592,31.1447,0.5272,Urban,0.0,
+south-central-tx,48231961402,Caddo mills fire Department,environmental_conservation_organization,True,-96.2244,33.0691,0.5232,Rural,0.0,
+south-central-tx,48325000103,Castroville Volunteer Fire Dept,fire_protection_service,True,-98.8852,29.3568,0.5089,Rural,0.0,

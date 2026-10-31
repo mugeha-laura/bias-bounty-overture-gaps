@@ -1,0 +1,19 @@
+[project]
+name = "bias-bounty-overture-gaps"
+version = "1.0.0"
+description = "Overture coverage gaps in climate-vulnerable US census tracts (Zindi Bias Bounty Mapping Equity Challenge)"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.12"
+dependencies = [
+    "duckdb==2.0.0",
+    "numpy==2.5.3",
+    "pandas==3.0.5",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = []

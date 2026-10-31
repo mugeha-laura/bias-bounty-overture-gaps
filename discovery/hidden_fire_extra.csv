@@ -1,0 +1,19 @@
+check,group,n,value,note
+osm,"hidden, rural",490,0.2795918367346939,share with an OSM amenity=fire_station within 500 m
+osm,"hidden, urban",207,0.43478260869565216,share with an OSM amenity=fire_station within 500 m
+osm,"hidden, rural tribal Eastern OK",123,0.08943089430894309,share with an OSM amenity=fire_station within 500 m
+osm,"hidden, all",697,0.32568149210903874,share with an OSM amenity=fire_station within 500 m
+osm,"control: fire_department, all",3641,0.5487503433122769,share with an OSM amenity=fire_station within 500 m
+hazard,"rural, wildfire hazard Q1 lowest",484,0.23760330578512398,share of fire departments hidden
+hazard,"rural, wildfire hazard Q2",485,0.24536082474226803,share of fire departments hidden
+hazard,"rural, wildfire hazard Q3",483,0.2484472049689441,share of fire departments hidden
+hazard,"rural, wildfire hazard Q4 highest",484,0.2809917355371901,share of fire departments hidden
+hazard,"rural, summer drought Q1 lowest",486,0.23868312757201646,share of fire departments hidden
+hazard,"rural, summer drought Q2",482,0.23651452282157676,share of fire departments hidden
+hazard,"rural, summer drought Q3",484,0.2871900826446281,share of fire departments hidden
+hazard,"rural, summer drought Q4 highest",484,0.25,share of fire departments hidden
+people,tracts where every fire department is hidden,350,1295919.0,population; housing units 568261; rural tracts 194
+fix,hidden filed as fire_protection_service,697,0.7360114777618364,share recovered by also matching fire_protection_service
+confidence,hidden,697,0.9159184098243712,median Overture confidence
+confidence,fire_department,3641,0.9199122190475464,median Overture confidence
+spanish,South-Central TX names with bomberos,5,4.0,of which filed under another category

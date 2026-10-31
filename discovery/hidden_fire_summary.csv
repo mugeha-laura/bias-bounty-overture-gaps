@@ -1,0 +1,5 @@
+group,departments,hidden,share,ci_low,ci_high,counties,median_km_to_findable,via_meta
+Other rural,1470.0,367.0,0.2497,0.2264,0.2745,244.0,11.1579,0.9918
+Rural tribal Eastern OK,466.0,123.0,0.2639,0.216,0.3142,66.0,10.0085,0.9919
+Urban,2402.0,207.0,0.0862,0.0745,0.1019,185.0,2.37,0.9082
+Rural minus urban,,,0.1669,0.1395,0.1922,,,
